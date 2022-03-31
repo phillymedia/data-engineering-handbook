@@ -199,7 +199,7 @@ We should counteract that by having short toes and feeling comfortable letting o
 
 We know we must rely on others for the expertise they have that we don't.
 It's OK to admit you don't know something and to ask for help, even if doing so makes you feel vulnerable.
-It is never too late to ask a question, and by doing so, you can get the information you need to produce results and to strengthen your own skills as well as GitLab as a whole.
+It is never too late to ask a question, and by doing so, you can get the information you need to produce results and to strengthen your own skills as well as the Inquirer as a whole.
 After your question is answered, [please document the answer so that it can be shared](/handbook/handbook-usage/#how-we-use-the-guide-every-day).
 
 Don't display surprise when people say they don't know something, as it is important that everyone feels comfortable saying "I don't know" and "I don't understand."
@@ -439,7 +439,7 @@ Adoption of features, user requirements, and the competitive landscape change fr
 
 ## Diversity, Inclusion & Belonging
 
-Diversity, inclusion and belonging are fundamental to the success of the Inquirer. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
+Diversity, inclusion and belonging are fundamental to the success of the Inquirer. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that the Inquirer is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
 
 ##### Bias towards asynchronous communication
 
@@ -449,8 +449,7 @@ This is demonstrated by communicating recordings of [meetings](/company/culture/
 
 ##### Embracing uncomfortable ideas and conversations
 
-
-Part of embracing diversity is a willingness to embrace often uncomfortable conversations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
+Part of embracing diversity is a willingness to embrace often uncomfortable conversations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain Inquirer team members who may not be in the majority.
 
 We believe that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
 
@@ -486,7 +485,7 @@ We want cultural diversity instead of cultural conformity, such as a [brogrammer
 
 ##### Religion and politics at work
 
-We generally avoid discussing politics or religion in public forums because it is easy to alienate people that have a minority opinion. This doesn’t mean we never discuss these topics. Because we value diversity, inclusion and belonging, and want all team members to feel welcome and contribute equally, we encourage free discussion of operational decisions that can move us toward being a more inclusive company. GitLab also publicly supports pro-diversity activities and events.
+We generally avoid discussing politics or religion in public forums because it is easy to alienate people that have a minority opinion. This doesn’t mean we never discuss these topics. Because we value diversity, inclusion and belonging, and want all team members to feel welcome and contribute equally, we encourage free discussion of operational decisions that can move us toward being a more inclusive company. The DE team also publicly supports pro-diversity activities and events.
 
 There is sometimes a grey area where advocating for diversity and political activities may intersect. Team members should use discretion in grey area communications, because a culture of belonging requires us to be respectful of the broad spectrum of views within our work environment. What does this mean in practice? Please feel empowered to share information that highlights diversity, inclusion and belonging issues and how Inquirer team members can get involved.
 
@@ -587,7 +586,7 @@ But we set a due date because having something out there builds trust and gives 
 
 ##### Cleanup over sign-off
 
-As discussed in [this interview about iteration in engineering with GitLab's senior ](https://youtu.be/tPTweQlBS54?t=1030), waiting for approval can slow things down. We can prevent this with automation (e.g. tests of database migration performance) or clean-up after the fact, but we try to ensure that people don't need to wait for signoff.
+As discussed in [this interview about iteration in engineering with GitLab's senior developers](https://youtu.be/tPTweQlBS54?t=1030), waiting for approval can slow things down. We can prevent this with automation (e.g. tests of database migration performance) or clean-up after the fact, but we try to ensure that people don't need to wait for signoff.
 
 ##### Start off by impacting the fewest users possible
 
@@ -787,7 +786,7 @@ They help us describe the type of behavior that we expect from people we hire.
 They help us to know how to behave in the organization and what to expect from others.
 Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
 
-## How to scale the business while preserving GitLab values?
+## How to scale the team while preserving DE values?
 
 *For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) ), Inquirer DE team members may have a lot of opinions and interest,
 and they want to provide their feedback and comments.
@@ -801,10 +800,10 @@ These perspectives may also uncover potential risks and problems in the project.
 
 There shouldn't be a [“Don’t they have their job to do?”](https://www.youtube.com/watch?v=U9de50APPAg) type of response.
 Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel.”
-At GitLab, we [measure results, not hours](#measure-results-not-hours).
+On the DE team, we [measure results, not hours](#measure-results-not-hours).
 As long as a team member is producing required results, they are empowered to decide how to spend their time.
 
-On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.
+On the other hand, as the DE team scales, we need to make decisions and the decisions may not be agreed to by everyone.
 If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle.
 In these cases, it's best to have time-boxed feedback built into timelines.
 
@@ -824,11 +823,11 @@ This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-
 
 ## Why our values are public
 
-Companies are encouraged to copy and implement GitLab's values. They are Creative Commons and can be copied verbatim.
+Companies are encouraged to copy and implement the DE team's values. They are Apache 2.0 and can be copied verbatim.
 
 We make our values public for the same [reasons](/company/culture/all-remote/hiring/#make-your-strategy-public) we make our [OKRs](/company/okrs/) (Objectives and Key Results) and [strategy](/company/strategy/) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
 
-Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with GitLab's values apply for an [open vacancy](/jobs/), this allows our hiring teams to more efficiently move candidates through the [interview process](/handbook/hiring/interviewing/).
+Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with the DE team's values apply for an open vacancy, this allows our hiring teams to more efficiently move candidates through the [interview process](/handbook/hiring/interviewing/).
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -857,13 +856,12 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 ## Updating our values
 
-Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](/company/team/) or in the [core team](/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
+Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the Data Architect or VP of Data & Insights. If you're an employee of the Inquirer please post a link to the PR in the `#data-engineering` Slack channel. 
+TKTK - include instructions for external suggestions
 
 ## Number of contributors and updates over time
 
-To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/9af373c1-2c9a-4329-a314-4f38595cf2e6??embed=true" height="700"> </iframe>
+[TKTK]
 
 ## How do we reinforce our values
 
@@ -874,7 +872,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. What we emphasize during [on-boarding](/handbook/people-group/general-onboarding/).
 1. Criteria we use for our [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review).
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
-1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
+1. The example that Data leadership sets for the team since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 
 1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
 1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
@@ -885,14 +883,10 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/events/gitlab-contribute/).
-1. Providing GitLab team members and [qualified individuals](https://about.gitlab.com/handbook/ceo/shadow/#eligibility) transparency into all aspects of the company through the [CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/#goal) to enable them to better engage and collaborate cross-functionally.
-1. Linking the takeaways of courses to our values, like we did for [the Crucial Conversations training](/handbook/leadership/crucial-conversations/#how-crucial-conversations-align-with-gitlab-values).
-1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
-1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
-1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
-1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values.
+2. Linking the takeaways of courses and trainings to our values.
+3. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
 
-The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
+The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses.
 
 In negative feedback, we should be specific about what the problem is. For example, saying someone is "[not living the values](https://hbr.org/2017/05/how-corporate-values-get-hijacked-and-misused)" isn't helpful.
 
@@ -904,7 +898,7 @@ In negative feedback, we should be specific about what the problem is. For examp
 
 Value erosion can occur when indifference and apathy are tolerated. It can also occur when individuals justify undesired behaviors by interpreting values as "me values" rather than "company values." For example, a team member may speak to the importance of personal efficiency in order to justify not collaborating professionally with peers. This is not what we expect from team members in terms of efficiency and collaboration.
 
-If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel (for GitLab team members) or @-mentioning  [@gitlab](https://twitter.com/gitlab) on Twitter (for those who do not work at GitLab).
+If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in the Inquirer's `#data-engineering` Slack channel (for Inquirer employees) or [TKTK add instructions for external comments]
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -931,7 +925,6 @@ From our values we excluded some behaviors that are obvious; we call them our *p
 
 TKTK
 
-New team members should read [GitLab's guide to starting a new remote role](/company/culture/all-remote/getting-started/), and reference [interviews](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) centered on values within the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=values).
 
 ## Mission
 
