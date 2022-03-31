@@ -805,3 +805,6 @@ There are several benefits and reasons to sharing your calendar with everyone at
 - Due to competing priorities, there are small windows of time when our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
 
 If you add blocks of time spent on recurring tasks to your Google Calendar to remind yourself to do things (e.g. "Check Google Analytics"), consider marking yourself "Free" for those events so that coworkers know they may schedule a meeting during that time if they can't find another convenient time.
+
+## Confluence
+We will track onboarding activities for new hires in our private Confluence instance. Team members are encouraged to migrate any other DE-created content from Confluence to this handbook. 
