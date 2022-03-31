@@ -3,8 +3,8 @@
 
 There are three **Data Engineering Team Operating Principles**: 
 
-### Build A Better Team
-- [CREDIT](/handbook/values/#credit)
+### 1. Build A Better Team
+- [CREDIT](https://about.gitlab.com/handbook/values/#credit)
 - We treat everyone with respect
 - We assume best intent towards the Inquirer's success
 - We are honest with ourselves and with each other
@@ -13,14 +13,14 @@ There are three **Data Engineering Team Operating Principles**:
 - We’re in this together as a team
 - We tackle mistakes as a team and seek to get better
 
-### Deliver Results That Matter
+### 2. Deliver Results That Matter
 - We operate with a [growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means), continually raising the standard
 - We don’t confuse activity with progress
 - We know how our work aligns with strategic initiatives and how it will help our Business Partners deliver impactful results
 - We define expectations up front: Scope, Time, and Success Criteria
 - We proactively engage with our Business Partners to ensure regular progress for important initiatives
 
-###  Create Trusted & Scalable Data Solutions
+###  3. Create Trusted & Scalable Data Solutions
 - We all have a responsibility for Data Security and Data Quality
 - We lead with well-tested and accurate Data Solutions
 - We operate and maintain the production solutions we create
