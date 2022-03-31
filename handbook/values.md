@@ -32,7 +32,7 @@ _Values are not just things we do but things that actively drive good behavior. 
 1. To **remove** a sub-value from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
 2. The Inquirer Data Engineering Handbook Page owner must approve and merge the request.
 
-## 🤝 Collaboration
+## Collaboration
 
 To achieve results, team members must work together effectively. On the DE team, helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve.
 Similarly, you can rely on others for help and advice—in fact, you're expected to do so.
@@ -226,7 +226,7 @@ We do value collaboration, but that's different than being promoted just because
 ##### Collaboration Competency
 [TKTK]
 
-## 📈 Results
+## Results
 
 We do what we've promised to each other and to our stakeholders
 
@@ -352,7 +352,7 @@ We should be diligent to define [Directly Responsible Individuals](/handbook/peo
 ##### Results Competency
 [TKTK]
 
-## ⏱️ Efficiency
+## Efficiency
 
 Working efficiently on the right things enables us to make fast progress, which makes our work more fulfilling.
 
@@ -437,7 +437,7 @@ Adoption of features, user requirements, and the competitive landscape change fr
 
 [TKTK]
 
-## 🌐 Diversity, Inclusion & Belonging
+## Diversity, Inclusion & Belonging
 
 Diversity, inclusion and belonging are fundamental to the success of the Inquirer. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
 
@@ -564,8 +564,7 @@ Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch
 
 TKTK
 
-## 👣 Iteration
-{:#iteration .gitlab-purple}
+## Iteration
 
 We do the smallest thing possible and get it out as quickly as possible. If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
 
@@ -702,7 +701,7 @@ In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), 
 ##### Iteration Competency
 [TKTK]
 
-## 👁️ Transparency
+## Transparency
 
 Be open about as many things as possible. By making information
 public, we can reduce the threshold to contribution and make collaboration easier.
