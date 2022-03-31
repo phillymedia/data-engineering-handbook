@@ -4,7 +4,7 @@
 There are three **Data Engineering Team Operating Principles**: 
 
 ### 1. Build A Better Team
-- [CREDIT](../values/#credit)
+- [CREDIT](handbook/values/#credit)
 - We treat everyone with respect
 - We assume best intent towards the Inquirer's success
 - We are honest with ourselves and with each other
