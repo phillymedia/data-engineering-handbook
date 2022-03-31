@@ -764,7 +764,7 @@ When a Inquirer DE Team Member comes across an ask or material (MR, handbook, et
 Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
 
 ##### Transparency Competency
-{.no_toc}
+
 [TKTK]
 
 ## Five dysfunctions
