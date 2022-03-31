@@ -52,7 +52,7 @@ Give as much positive feedback as you can, and do it in a public way.
 
 There are aspects of our team culture, such as intentional transparency, that are unintuitive to outsiders and new team members.
 Be willing to invest in people and engage in open dialogue.
-For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything).
+For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand [it's impossible to know everything](#its-impossible-to-know-everything).
 
 Everyone can **remind** anyone on our team about our values.
 If there is a disagreement about the interpretations, the discussion can be escalated to more people within the Data Insights group without repercussions.
@@ -64,7 +64,7 @@ Share problems you run into, ask for help, be forthcoming with information and *
 Give negative feedback in the smallest setting possible.
 One-on-one video calls are preferred.
 
-Negative *feedback* is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement [in a public channel](/handbook/communication/#use-public-channels), respectfully and [transparently](/handbook/values/#transparency).
+Negative *feedback* is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement [in a public channel](/handbook/communication/#use-public-channels), respectfully and [transparently](#transparency).
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -126,7 +126,7 @@ We blame circumstances for our own mistakes, but individuals for theirs.
 This double standard is called the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error).
 In order to mitigate this bias, you should always [assume positive intent](https://www.collaborativeway.com/general/a-ceos-advice-assume-positive-intent/) in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes.
 
-When [disagreeing](/handbook/values/#disagree-commit-and-disagree), folks sometimes argue against the weakest points of an argument, or an imaginary argument (e.g. ["straw man"](https://en.wikipedia.org/wiki/Straw_man)). Assume the points are presented in good faith, and instead try to argue against the strongest version of your opponent’s position. We call this arguing against a "steel" position, instead of a "straw" one. This concept is borrowed from [argue the "steel man"](https://desert.glass/newsletter/week-46/) as described in [Robin Sloan](https://www.robinsloan.com/about/)'s newsletter.
+When [disagreeing](#disagree-commit-and-disagree), folks sometimes argue against the weakest points of an argument, or an imaginary argument (e.g. ["straw man"](https://en.wikipedia.org/wiki/Straw_man)). Assume the points are presented in good faith, and instead try to argue against the strongest version of your opponent’s position. We call this arguing against a "steel" position, instead of a "straw" one. This concept is borrowed from [argue the "steel man"](https://desert.glass/newsletter/week-46/) as described in [Robin Sloan](https://www.robinsloan.com/about/)'s newsletter.
 
 A "steel" position should be against the absolute most effective version of your opponent’s position — potentially even more compelling than the one they presented. A good "steel" position is one where the other person feels you've represented their position well, even if they still disagree with your assumptions or conclusion. 
 
@@ -207,11 +207,11 @@ Don't display surprise when people say they don't know something, as it is impor
 
 ##### Collaboration is not consensus
 
-When collaborating, it is always important to stay above radar and work [transparently](/handbook/values/#transparency), but collaboration is [not consensus](/handbook/leadership/#making-decisions).
+When collaborating, it is always important to stay above radar and work [transparently](#transparency), but collaboration is [not consensus](/handbook/leadership/#making-decisions).
 You don't need to ask people for their input, and they shouldn't ask you "Why didn't you ask me?"
 You don't have to wait for people to provide input, if you did ask them.
 We believe in permissionless innovation—you don't need to involve people, but everyone can contribute.
-This is core to how we [iterate](/handbook/values/#iteration), since we want smaller teams moving quickly rather than large teams achieving consensus slowly.
+This is core to how we [iterate](#iteration), since we want smaller teams moving quickly rather than large teams achieving consensus slowly.
 
 ##### Collaboration is not playing politics
 
@@ -301,7 +301,7 @@ Given the limited time and resources of our team, time gained or lost has compou
 ##### Ambitious
 
 While we iterate with small changes, we strive for large, ambitious results. We achieve these through:
-   1. Keeping the focus on the [results](/handbook/values/#results) and the outcome
+   1. Keeping the focus on the [results](#results) and the outcome
    2. Not being satisfied with the status quo and setting higher goals
       1. Ambitious [mission](TKTK) and [vision](TKTK)
       2. Ambitious OKRs
@@ -314,7 +314,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
   1. Proactively critiquing ourselves
      1. Highlight where we fall short
   2. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
-  3. Preventing [risk aversion](/handbook/values/#low-level-of-shame)
+  3. Preventing [risk aversion](#low-level-of-shame)
 
 ##### Perseverance
 
@@ -336,7 +336,7 @@ The manager may disagree with the final decision, but they still commit to the d
 In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
 Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
 
-When you want to reopen the conversation on something, show that your argument is informed by previous conversations and [assume the decision was made with the best intent](/handbook/values/#assume-positive-intent).
+When you want to reopen the conversation on something, show that your argument is informed by previous conversations and [assume the decision was made with the best intent](#assume-positive-intent).
 You have to achieve results on every decision while it stands, even when you are trying to have it changed.
 You should communicate with the [DRI](/handbook/people-group/directly-responsible-individuals/) who can change the decision instead of someone who can't.
 
@@ -378,7 +378,7 @@ For example, sales is hard because you are dependent on another organization, an
 
 ##### Self-service and self-learning
 
-Team members should first [search for their own answers](/company/culture/all-remote/self-service/) and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](/handbook/values/#low-level-of-shame). [Write down any new information discovered](/handbook/values/#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
+Team members should first [search for their own answers](/company/culture/all-remote/self-service/) and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](#low-level-of-shame). [Write down any new information discovered](#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
 
 ##### Efficiency for the right group
 
@@ -394,7 +394,7 @@ Consider the time investment you are asking others to make with meetings and a p
 
 Every dollar we spend will have to be earned back. Be as frugal with company money as you are with your own. In saying this, we ask team members to weigh the cost of purchases against the value that they will bring to the company.
 
-Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost.
+Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](#results) relative to cost.
 
 
 ##### Frugality
@@ -427,7 +427,7 @@ Not every problem should lead to a new process to prevent them. Additional proce
 
 ##### Move fast by shipping the minimal viable change
 
-We value constant improvement by iterating quickly, month after month. If a task is not the [smallest thing possible](/handbook/values/#iteration), cut the scope.
+We value constant improvement by iterating quickly, month after month. If a task is not the [smallest thing possible](#iteration), cut the scope.
 
 ##### Embrace change
 
@@ -547,9 +547,9 @@ As a nationally-dispersed company, we have employees from many different backgro
 
 [Neurodiversity](http://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/) refers to variations in the human brain regarding learning, attention, sociability, mood, and other mental functions. There are various neurodevelopmental conditions, like autism, ADHD, dyslexia, dyscalculia, dyspraxia, cognitive impairment, schizophrenia, bipolarity, and other styles of neurodivergent functioning. While neurodivergent individuals often bring [unique skills and abilities](https://adhdatwork.add.org/potential-benefits-of-having-an-adhd-employee/) which can be harnessed for a [competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage) in many fields (for example, [cybersecurity](https://www.forbes.com/sites/samcurry/2019/05/13/neurodiversity-a-competitive-advantage-in-cybersecurity/)), neurodivergent individuals are often discriminated against. Due to non-inclusive hiring practices, they sometimes have trouble making it through traditional hiring processes. Neurodiversity inclusion best practices benefit everyone, and at the Inquirer, everyone can contribute. The handbook, values, strategy, and interviewing processes must support the ability for everyone to thrive.
 
-On the DE team, we embrace Neurodiversity through adopting a variety of different work styles and communication styles, and we lean into [transparency](https://about.gitlab.com/handbook/values/#transparency), asynchronous as a default working style, and pre-filled meeting agendas. These best practices become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style. It is important to ask team members specifically what their preferred communication method is in order to provide them information in a format that is easily consumable for them.
+On the DE team, we embrace Neurodiversity through adopting a variety of different work styles and communication styles, and we lean into [transparency](https://about.gitlab.com#transparency), asynchronous as a default working style, and pre-filled meeting agendas. These best practices become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style. It is important to ask team members specifically what their preferred communication method is in order to provide them information in a format that is easily consumable for them.
 
-Remember, **brains work differently** and always [assume positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent), even if someone behaves in an unexpected way. While it may be an unexpected behavior to you, it may not be unexpected to the individual exhibiting the behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
+Remember, **brains work differently** and always [assume positive intent](https://about.gitlab.com#assume-positive-intent), even if someone behaves in an unexpected way. While it may be an unexpected behavior to you, it may not be unexpected to the individual exhibiting the behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
 
 We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.
 
@@ -749,9 +749,9 @@ Avoid using terms such as "industry standard" or "best practices" as they are va
 
 Similarly, merely stating a single value isn't a great explanation for why we are making a particular decision. Many things could be considered "iteration" or "efficiency" that don't match our definition of those values. Try to link to a sub-value of the value or provide more context, instead of just saying a single value's name.
 
-Saying why and not just what enables discussion around topics that may impact more than one value; for instance, when weighing the [efficiency of boring solutions](/handbook/values/#boring-solutions) with the focus on [stakeholder results](/handbook/values/#stakeholder-results). When decisions align with all of our values, they are easy to discuss and decide. When there are multiple values involved, using our [values hierarchy](/handbook/values/#hierarchy) and [directly](/handbook/values/#directness) discussing the tradeoffs is easier with more context.
+Saying why and not just what enables discussion around topics that may impact more than one value; for instance, when weighing the [efficiency of boring solutions](#boring-solutions) with the focus on [stakeholder results](#stakeholder-results). When decisions align with all of our values, they are easy to discuss and decide. When there are multiple values involved, using our [values hierarchy](#hierarchy) and [directly](#directness) discussing the tradeoffs is easier with more context.
 
-Articulating why also helps people understand how something changed when you [articulate that you changed your mind](/handbook/values/#articulate-when-you-change-your-mind).
+Articulating why also helps people understand how something changed when you [articulate that you changed your mind](#articulate-when-you-change-your-mind).
 
 Saying why does not mean justifying a decision against all other suggestions.
 The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for their decision.
@@ -802,7 +802,7 @@ These perspectives may also uncover potential risks and problems in the project.
 
 There shouldn't be a [“Don’t they have their job to do?”](https://www.youtube.com/watch?v=U9de50APPAg) type of response.
 Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel.”
-At GitLab, we [measure results, not hours](/handbook/values/#measure-results-not-hours).
+At GitLab, we [measure results, not hours](#measure-results-not-hours).
 As long as a team member is producing required results, they are empowered to decide how to spend their time.
 
 On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.
@@ -846,7 +846,7 @@ Think of the hierarchy as a weighting system. Values higher in the hierarchy do 
 * If a change impacts Transparency positively but impacts Efficiency negatively in roughly the same amount, we would move ahead since Transparency is higher in the hierarchy than Efficiency.
 * If a change has a massive positive impact on Diversity but negatively impacts Iteration, we would move ahead even though Diversity is lower in the hierarchy than Iteration because the overall impact is more positive than negative.
 
-![Values](/handbook/values/images/values.png)
+![Values](images/values.png)
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -862,7 +862,7 @@ Our values are updated frequently and as needed. Everyone is welcome to make a s
 
 ## Number of contributors and updates over time
 
-To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
+To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/9af373c1-2c9a-4329-a314-4f38595cf2e6??embed=true" height="700"> </iframe>
 
@@ -878,7 +878,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 
 1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
-1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
+1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
 1. Behavior we [compliment](/handbook/communication/#say-thanks).
 1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
@@ -905,7 +905,7 @@ In negative feedback, we should be specific about what the problem is. For examp
 
 Value erosion can occur when indifference and apathy are tolerated. It can also occur when individuals justify undesired behaviors by interpreting values as "me values" rather than "company values." For example, a team member may speak to the importance of personal efficiency in order to justify not collaborating professionally with peers. This is not what we expect from team members in terms of efficiency and collaboration.
 
-If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](/handbook/values/#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel (for GitLab team members) or @-mentioning  [@gitlab](https://twitter.com/gitlab) on Twitter (for those who do not work at GitLab).
+If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel (for GitLab team members) or @-mentioning  [@gitlab](https://twitter.com/gitlab) on Twitter (for those who do not work at GitLab).
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -940,4 +940,4 @@ TKTK
 
 ## Biggest risks
 
-We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/) TKTK. Many of our [values](/handbook/values/) help to mitigate some of these risks.
+We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/) TKTK. Many of our [values]() help to mitigate some of these risks.
