@@ -709,11 +709,17 @@ Use public issue trackers, projects, and repositories when possible.
 Transparency creates awareness for the Inquirer, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons,
 and processes with the **whole community** and the world in the spirit of open source, which we believe creates more value than it captures.
 
+Moreover, the value of transparency is consistent with the Inquirer's mission: 
+
+>Our mission is to be the indispensable source of local news and information serving the diverse communities of the Philadelphia region, with a sustainable, growing business built upon the trust and support of our customers.
+
+We build trust by of our customers by [working in public](https://nesslabs.com/work-in-public), and we serve our communties by broadcasting our information and knowledge out into the world.
+
 There are exceptions. Material that is [not public by default is documented](/handbook/communication/#not-public). On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
 
 ##### Public by default
 
-We want to get to the point where everything we do on the data engineering team is public by default. We'll start with this handbook.
+We want everything we do on the data engineering team to be public by default. Currently, the [the handbook](https://github.com/phillymedia/data-engineering-handbook) and [Vestapol](https://github.com/phillymedia/vestapol) are the two public GitHub repositories owned by the DE team, though we should seek to increase the scope of our public operations.
 
 ##### Directness
 
