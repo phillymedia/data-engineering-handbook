@@ -715,8 +715,6 @@ Moreover, the value of transparency is consistent with the Inquirer's mission:
 
 We build trust by of our customers by [working in public](https://nesslabs.com/work-in-public), and we serve our communties by broadcasting our information and knowledge out into the world.
 
-There are exceptions. Material that is [not public by default is documented](/handbook/communication/#not-public). On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
-
 ##### Public by default
 
 We want everything we do on the data engineering team to be public by default. Currently, the [the handbook](https://github.com/phillymedia/data-engineering-handbook) and [Vestapol](https://github.com/phillymedia/vestapol) are the two public GitHub repositories owned by the DE team, though we should seek to increase the scope of our public operations.
