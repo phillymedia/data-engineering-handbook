@@ -298,25 +298,26 @@ There is a delicate balance between being confident enough to be assertive of pe
 ## Scheduling meetings
 
 1. If you want to ask Inquirer team members if they are available for an event please send a calendar invite with Google Calendar using your Google Inquirer account to their Google Inquirer account. When you add a Inquirer team member as a “Guest” in Google Calendar, you can click the See Guest Availability button to check availability and find a time on their calendar. These calendar invites will automatically show up on all parties calendars even when the email is not opened. It is an easier way to ensure everyone has visibility to the meeting and member’s status. Please respond quickly to invites so people can make necessary plans.
-1. Every scheduled meeting should either have a Google Presentation (for example for functional updates that don't require participation) or a Google Doc (for most meetings) linked. If it is a Google Doc it should have an [agenda](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit#heading=h.6upuyp25d0wm), including any preparation materials (can be a presentation). For a step-by-step guide on GitLab meeting b est practices, visit our [Live Doc Meetings page](/company/culture/all-remote/live-doc-meetings/).
-   - No agenda is required for [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats). Note that only meetings that are primarily social in nature should be labeled as a coffee chat in the calendar invite.
-
+2. Every scheduled meeting should have an accompanying Google Doc that is prepopulated with an agenda, as well as meeting notes submitted before, during, and after the meeting.
+   - If a Google Doc has not already been created for the meeting, you can create one by clicking on [Take meeting notes](https://workspaceupdates.googleblog.com/2021/10/create-meeting-notes-in-google-calendar.html) in the Google Calendar event.
+      - If you create a meeting notes document using this flow, move it to the [Meeting Notes folder](https://drive.google.com/drive/folders/1A8uu317RQOyJ9m77pJm4CEsC9ROPl8BO?usp=sharing) on the [Data & Insights shared drive](https://drive.google.com/drive/u/0/folders/0AIZYO4MJ2UV7Uk9PVA?ths=true)
+      - When sharing links to meeting notes on Slack, the googledrive Slack app will prompt you if some people in the channel do not have access to the file. Select "Allow everyone to comment and edit" from the dropdown menu so that everyone in the channel can contribute.
    - A suggested format for 1:1 agendas can be found on the [1:1 leadership page](/handbook/leadership/1-1/).
-1. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
-1. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
-1. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
-1. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
-1. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings). This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
+3. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
+4. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
+5. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
+6. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
+7. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings). This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
    - Write notes and reflect
    - Respond to urgent messages
    - Take a [bio break](https://www.merriam-webster.com/words-at-play/bio-break-meaning-and-origin)
    - Stretch your legs
    - Grab a snack
-1. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
-1. When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
-1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
-1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
-1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
+8. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
+9.  When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
+10. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
+11. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
+12. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
 ### Focus Fridays
 
