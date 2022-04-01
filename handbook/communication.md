@@ -285,8 +285,10 @@ There is a delicate balance between being confident enough to be assertive of pe
 ## Inquirer Sits
 
 - Inquirer Sits is a short time for Inquirer team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to medidation, and the final five minutes are dedicated to discussion.
+- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to medidation, and the final five minutes are dedicated to discussion. 
+- You're welcome to join the call on whichever days work for you.
 - No previous experience is necessary, nothing extra is needed other than a comfortable seat and 25 minutes.
+- If you're interested in joining Inquirer Sits, you can ask for a calendar invite in the #inquirer-sits Slack channel.
 
 
 ## Sprint retrospectives and kickoffs
