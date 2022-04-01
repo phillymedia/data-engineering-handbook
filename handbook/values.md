@@ -29,7 +29,7 @@ particularly for [newer team members](/company/culture/all-remote/getting-starte
 
 _Values are not just things we do but things that actively drive good behavior.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behavior.  If we don't prune our sub-values, then we will be like every other company, things that make sense but are not leading to a better culture._
 
-1. To **remove** a sub-value from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
+1. To **remove** a sub-value from the Handbook page, submit your change through a pull request and explain your reasons in the pull request description.
 2. The Inquirer Data Engineering Handbook Page owner must approve and merge the request.
 
 ## Collaboration
@@ -284,7 +284,7 @@ You don't always get results and this will lead to criticism from yourself and/o
 ##### Global optimization
 
 This name comes from the [quick guide to Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your team when it negatively impacts the goals of other teams, our users, and/or the company. Those goals are also your problem and your job. Keep your team as lean as possible, and help other teams achieve their goals.
-In the context of [collaboration](#collaboration), this means that if anyone is blocked by you on a question, your approval, or a merge request review, your top priority is always to unblock them, either directly or through helping them find someone else who can, even if this takes time away from your own or your team's priorities.
+In the context of [collaboration](#collaboration), this means that if anyone is blocked by you on a question, your approval, or a pull request review, your top priority is always to unblock them, either directly or through helping them find someone else who can, even if this takes time away from your own or your team's priorities.
 
 ##### Tenacity
 
@@ -662,14 +662,14 @@ Changing something without shipping it is a revision, not iteration. Only when t
 
 In order to [embrace iteration](https://www.youtube.com/embed/nXfKtnVUhvQ), we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations.
 
-##### Make small merge requests
+##### Make small pull requests
 
 
-When you are submitting a merge request for a code change, or a process change in
+When you are submitting a pull request for a code change, or a process change in
 the handbook, keep it as small as possible. If you are adding a new page to the
 handbook, create the new page with a small amount of initial content, get it merged
-quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent merge requests.
-Similarly, when adding features to the Inquirer's Data Platform, consider ways to [reduce the scope](/handbook/product/product-processes/#crafting-an-mvc) of the feature before creating the merge request to ensure your merge request is as small as possible.
+quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent pull requests.
+Similarly, when adding features to the Inquirer's Data Platform, consider ways to reduce the scope of the feature before creating the pull request to ensure your pull request is as small as possible.
 
 ##### Always iterate deliberately
 
@@ -858,6 +858,7 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the Data Architect or VP of Data & Insights. If you're an employee of the Inquirer please post a link to the PR in the `#data-engineering` Slack channel. 
 TKTK - include instructions for external suggestions
+
 
 ## Number of contributors and updates over time
 
