@@ -4,7 +4,7 @@ Our team's six core values are
 [**🤝 Collaboration**](#collaboration),
 [**📈 Results**](#results),
 [**⏱️ Efficiency**](#efficiency),
-[**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
+[**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion--belonging),
 [**👣 Iteration**](#iteration), and
 [**👁️ Transparency**](#transparency),
 and together they spell the **CREDIT** we give each other by assuming good intent. They are made actionable below.
