@@ -60,7 +60,7 @@ It's best practice to start a discussion where possible with a [Pull Request (PR
 10. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a data engineer and you propose a solution, ping a fellow data engineer to review your work. If they suggest changes, you get the opportunity to improve your solution and propose an alternative PR. This promotes collaboration and advances everyone's skills.
 11. Respond to comments within a **threaded discussion**. 
 12. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently.
-13. If you have received any feedback or questions on your PR, try to acknowledge comments as [that's how we ensure we create an environment of belonging for all team members](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Merging your PR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals/) (DRI) who does not have to make a fast decision, you can choose not to change your PR, but you should acknowledge the comments or feedback, consider if they warrant a change to your PR, and [say why, not just what](values.md#say-why-not-just-what).
+13. If you have received any feedback or questions on your PR, try to acknowledge comments as that's how we ensure we create an environment of belonging for all team members. Merging your PR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals/) (DRI) who does not have to make a fast decision, you can choose not to change your PR, but you should acknowledge the comments or feedback, consider if they warrant a change to your PR, and [say why, not just what](values.md#say-why-not-just-what).
    If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
    When fast decisions are needed, [we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input](/handbook/leadership/#making-decisions). The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](values.md#disagree-commit-and-disagree).
 14. For the Inquirer data platform, the merge request guidelines are in the TKTK [[Contribution
@@ -106,7 +106,7 @@ In an [all-remote setting](/company/culture/all-remote/terminology/), mastering 
 3. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
 4. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
 5. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use issues or public chat channels instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
-6. If you send a handbook link to someone as an answer to a question, consider adding some context, espeically if they are new to GitLab. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member. 
+6. If you send a handbook link to someone as an answer to a question, consider adding some context, especially if they are new to the Inquirer. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member. 
 7. If the answer to a question isn't documented, please immediately make a pull request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A pull request is the best way to say thanks for help.
 8. If you mention something (a pull request, issue, commit, webpage, comment, etc.) please include a link to it.
 9. All company data should be **shareable** by default. Do not use a local text file, but rather leave comments on an issue.
@@ -158,7 +158,7 @@ In an all-remote organization effective communication is key to exchanging knowl
 
 - Effectively practices communication via text.
 - Uses asynchronous communication when possible: merge requests (preferred) or issues.
-- Directs all communication to the appropriate channels (Slack, GitLab, email).
+- Directs all communication to the appropriate channels (Slack, Inquirer, email).
 - Recognises when synchronous communication is the more appropriate option.
 - Directs all decisions and discussions to the Handbook as a single source of truth.
 - Records videos to communicate information when that is the most efficient and effective way to consume the content.
@@ -231,7 +231,7 @@ As we continue to build on [inclusion](values.md#diversity-inclusion), recogniti
 6. If possible please include a link with your thanks that points to the subject matter that you are giving thanks for, for example a link to a merge request.
 7. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 8. Please do not celebrate Inquirer contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While DE team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
-9. Do not thank the CEO or other executives for something that the company paid for, thank GitLab instead.
+9. Do not thank the CEO or other executives for something that the company paid for, thank the Inquirer instead.
 10. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).
 11. Understand that everyone doesn't need or want recognition. Once this is advised, please respect when they don't.
 
@@ -314,10 +314,7 @@ There is a delicate balance between being confident enough to be assertive of pe
    - Stretch your legs
    - Grab a snack
 8. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
-9.  When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
-10. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
-11. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
-12. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
+9.  When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
 
 ### Focus Fridays
 
@@ -372,7 +369,7 @@ Make a pre-recorded video presentation using mmhmm (TKTK find training materials
 **Pre-recorded presentations enable the following:**
 
 - Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
-- Reinforces GitLab's [Bias Towards Asynchronous Communication](values.md#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting.
+- Reinforces the Data Engineering team's [Bias Towards Asynchronous Communication](values.md#bias-towards-asynchronous-communication) because it helps organization members in different timezones to consume the presentation material async versus spending time in a meeting.
 - Strengthens [self-service and self-learning](values.md#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
 - Standardizes the approach to meetings across the organization.
 - Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility.
@@ -516,7 +513,7 @@ Theoretically you can have multiple people in a room with their own equipment bu
 3. Do not use ALL CAPS because it [feels like shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting). 
 4. We use Unix style (lf) line endings, not Windows style (crlf), please ensure `*.md text eol=lf` is set in the repository's `.gitattributes` and run `git config --global core.autocrlf input` on your client.
 5. Always write a paragraph on a single line. Use soft breaks ("word wrap") for readability. Do not put in a hard return at a certain character limit (e.g., 80 characters) and don't set your IDE to automatically insert hard breaks. Pull requests for the blog and handbook are very difficult to edit when hard breaks are inserted.
-6. Do not create links like "here" or "click here". All links should have relevant anchor text that describes what they link to, such as: "GitLab CI source installation documentation". Using [meaningful links](https://www.futurehosting.com/blog/links-should-have-meaningful-anchor-text-heres-why/) is important to both search engine crawlers (SEO) and accessibility for people with learning differences and/or physical disabilities.
+6. Do not create links like "here" or "click here". All links should have relevant anchor text that describes what they link to, such as: "CI source installation documentation". Using [meaningful links](https://www.futurehosting.com/blog/links-should-have-meaningful-anchor-text-heres-why/) is important to both search engine crawlers (SEO) and accessibility for people with learning differences and/or physical disabilities.
    This guidance should be followed in all places links are provided, whether in the handbook, website, GoogleDocs, or any other content.
    Avoid writing GoogleDocs content which states - `Zoom Link [Link]`.
    Rather, paste the full link directly following the word `Zoom`.
@@ -529,30 +526,25 @@ Theoretically you can have multiple people in a room with their own equipment bu
 12. If you have multiple points in a comment or email, please number them. Numbered lists are easier to reference during a discussion over bulleted lists.
 13. When you reference an issue, merge request, comment, commit, page, doc, etc. and you have the URL available please paste that in.
 14. In making URLs, always prefer hyphens to underscores, and always use lowercase.
-15. The community includes users, contributors, core team members, customers, people working for GitLab Inc., and friends of GitLab. If you want to refer to "people not working for GitLab Inc." just say that and don't use the word community. If you want to refer to people working for GitLab Inc. you can also use "the GitLab Inc. team" but don't use the "GitLab Inc. employees".
-16. When we refer to the GitLab community excluding GitLab team members please say "wider community" instead of "community".
-17. All people working for GitLab (the company) are the [GitLab team](/company/team/). We also have the [Core team](/community/core-team/) that consists of volunteers.
-18. Please always refer to GitLab Inc. people as GitLab team members, not employees.
-19. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
-20. Always write "GitLab" with "G" and "L" capitalized, even when writing "GitLab.com", except within URLs. When "gitlab.com" is part of a URL it should be lowercase.
-21. Refer to products by tier name only on Marketing pages: Our tier names are Ultimate, Premium, and Free. When both deployment models are being referred to (SaaS and self-managed), use the tier name only. When only one of the deployment models is being referred to, prefix the tier name with the deployment model. E.g., SaaS-Premium, Self-Managed-Ultimate.
-22. Correct capitalization of self-managed: The term `self-managed` should not be capitalized unless it's in a title or unless you are writing the full product name ("Self-Managed-Ultimate"). If it is used at the beginning of a sentence, then the first word only is capitalized: "Self-managed".
-23. Refer to environments that are installed and run by the end-user as "self-managed."
-24. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
-25. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
-26. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
-27. If an email needs a response, write the answer at the top of it.
-28. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
-29. Our homepage is https://about.gitlab.com/ (with the `about.` and with `https`).
-30. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html) whenever possible.
-31. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
-32. Always use a [serial comma](https://en.wikipedia.org/wiki/Serial_comma) (a.k.a. an "Oxford comma") before the coordinating conjunction in a list of three, four, or more items.
-33. Always use a single space between sentences rather than two.
-34. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide/) for more information when writing documentation.
-35. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
+15. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
+16. Refer to products by tier name only on Marketing pages: Our tier names are Ultimate, Premium, and Free. When both deployment models are being referred to (SaaS and self-managed), use the tier name only. When only one of the deployment models is being referred to, prefix the tier name with the deployment model. E.g., SaaS-Premium, Self-Managed-Ultimate.
+17. Correct capitalization of self-managed: The term `self-managed` should not be capitalized unless it's in a title or unless you are writing the full product name ("Self-Managed-Ultimate"). If it is used at the beginning of a sentence, then the first word only is capitalized: "Self-managed".
+18. Refer to environments that are installed and run by the end-user as "self-managed."
+19. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
+20. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
+21. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
+22. If an email needs a response, write the answer at the top of it.
+23. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
+24. Our homepage is https://about.gitlab.com/ (with the `about.` and with `https`).
+25. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html) whenever possible.
+26. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
+27. Always use a [serial comma](https://en.wikipedia.org/wiki/Serial_comma) (a.k.a. an "Oxford comma") before the coordinating conjunction in a list of three, four, or more items.
+28. Always use a single space between sentences rather than two.
+29. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide/) for more information when writing documentation.
+30. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
    1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
    2. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
-36. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/).
+31. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/).
 
 ## Visuals
 
@@ -757,9 +749,9 @@ Consider using Slack's <b>[Starred channel](https://slack.com/help/articles/2013
 
 An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with <b>[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)</b> to visibly raise or lower their priority level, giving you control over what you see first.
 
-1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`)
-1. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`, `#new-vacancies`)
-1. Channels important to my interests (e.g. `#travel`, `#remote`, `#daily-gratitude`, `#mental_health_aware`, `#intheparenthood`, `#women`, `#diversity_inclusion_and_belonging`)
+1. Channels important to my job (e.g. `#data-engineering`, `#data-insights`, any channels related to immediate work)
+2. Channels important to the Inquirer (e.g. `#general`,)
+3. Channels important to my interests (e.g. `#cats`, `#inquirer-sits`)
 
 #### Manage your Slack notifications
 
