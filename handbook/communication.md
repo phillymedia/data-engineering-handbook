@@ -27,20 +27,6 @@ Embracing asynchronous communication and learning to use it effectively requires
 
 If you see something that concerns you in Slack, Issues, Pull Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
 
-## External communication
-
-Key practices to consider during any meeting are listed below.
-
-1. Video Calls - If this is your first time meeting a stakeholder, vendor, employee, or other partner, turn on your camera when you join Zoom/Google Meet. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
-2. "No agenda, no attenda" - Always have an [agenda prepped and ready to go](/company/culture/all-remote/live-doc-meetings/), with the exception of purely informal meetings (e.g. social events, virtual happy hours). Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
-3. 70/30 Rule - Ask open ended questions that leave the audience talking 70% of the time, while you are talking 30% of the time. Please note that this varies based on the type of meeting that you are conducting. Be conscious of what questions need to be asked and to capture those items.
-4. Take Notes - Effective note-taking is a valuable skill that will help you retain and recall any important details. Be the person who remembers all the details of your audience's needs.
-5. Adapt to Audience Tone - Before going into the business portion of your meeting, evaluate first the tone of the audience. Adapt your tone accordingly in order to appeal to various types of personalities.
-6. Mid-call - Half-way through the meeting, check in with your audience. Ask them what their thoughts are on the progression of this meeting and if what you're presenting is on the right track. This helps both you and the audience by re-aligning expectations and making sure the meeting is going the right direction.
-7. Pre-Close Summary - 10 Minutes (1-hour meetings) or 5 minutes (30 minute meetings) prior to ending the call, ask the audience to build out an agenda for the next step or meeting. This helps to secure next steps and to ensure there are no balls dropped.
-8. Post Meeting Action - Immediately write down notes and next steps and input into the proper directory.
-
-
 ## Everything starts with a Pull Request
 
 It's best practice to start a discussion where possible with a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) instead of an issue. A PR is associated with a specific change that is proposed and transparent for everyone to review and openly discuss. The nature of PRs facilitate discussions around a proposed solution to a problem that is actionable. An PR is actionable, while an issue will take longer to take action on.
@@ -315,6 +301,17 @@ There is a delicate balance between being confident enough to be assertive of pe
    - Grab a snack
 8. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
 9.  When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
+
+Key practices to consider during any meeting are listed below.
+
+1. Video Calls - If this is your first time meeting a stakeholder, vendor, employee, or other partner, turn on your camera when you join Zoom/Google Meet. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
+2. "No agenda, no attenda" - Always have an [agenda prepped and ready to go](/company/culture/all-remote/live-doc-meetings/), with the exception of purely informal meetings (e.g. social events, virtual happy hours). Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
+3. 70/30 Rule - Ask open ended questions that leave the audience talking 70% of the time, while you are talking 30% of the time. Please note that this varies based on the type of meeting that you are conducting. Be conscious of what questions need to be asked and to capture those items.
+4. Take Notes - Effective note-taking is a valuable skill that will help you retain and recall any important details. Be the person who remembers all the details of your audience's needs.
+5. Adapt to Audience Tone - Before going into the business portion of your meeting, evaluate first the tone of the audience. Adapt your tone accordingly in order to appeal to various types of personalities.
+6. Mid-call - Half-way through the meeting, check in with your audience. Ask them what their thoughts are on the progression of this meeting and if what you're presenting is on the right track. This helps both you and the audience by re-aligning expectations and making sure the meeting is going the right direction.
+7. Pre-Close Summary - 10 Minutes (1-hour meetings) or 5 minutes (30 minute meetings) prior to ending the call, ask the audience to build out an agenda for the next step or meeting. This helps to secure next steps and to ensure there are no balls dropped.
+8. Post Meeting Action - Immediately write down notes and next steps and input into the proper directory.
 
 ### Focus Fridays
 
