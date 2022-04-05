@@ -33,4 +33,4 @@ _Objective_: Increase the capacity of the analytics team to perform specialized 
 _Key Result_: Newsroom analysts are distributing reports sourced from an article performance model that contains data from Chartbeat, Arc Content, WebSked, and Google Analytics [20%] 
 
 #### O3KR2
-_Key Result_: Each member of the team performs data engineering work that contributes to a Q2 Product Showcase presentation [0/3]
+_Key Result_: 80% of email marketing data requests to analytics take fewer than 15 minutes of analysts' time to satisfy []
