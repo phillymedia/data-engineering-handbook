@@ -2,7 +2,7 @@
 
 Currently, we're an all-remote team, so it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
-To accomplish this, we use <b>[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point</b> and stay as open and transparent as we can by communicating through public issues, [pull requests](#everything-starts-with-a-pull-request), and Slack channels.
+To accomplish this, we use <b>[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point</b> and stay as open and transparent as we can by communicating through public issues, [pull requests](#everything-starts-with-a-pull-request), and [Slack channels](#slack-channels).
 
 We also place an emphasis on ensuring that conclusions of offline conversations are written down.
 When we go **back and forth three times,** we jump on a [synchronous video call](#video-calls).
@@ -86,7 +86,7 @@ In an [all-remote setting](/company/culture/all-remote/terminology/), mastering 
 ## Top tips and best practices
 
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
-1. Use **asynchronous communication** when possible: pull requests (preferred) or issues. Announcements happen on the appropriate Slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
+1. Use **asynchronous communication** when possible: pull requests (preferred) or issues. Announcements happen on the appropriate [Slack channels](#slack-channels) and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
 1. Discussion in issues or Pull Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an issue or pull request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
 2. If you choose to email instead of chat it is OK to send an email that contains only a short message, similar as you would use in chat.
 3. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
@@ -135,7 +135,7 @@ When referring to email that recipients should have received, reference the send
 
 In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication on the DE team:
 
-- Uses [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](#writing-style-guidelines) through public issues, pull requests, and Slack channels (not DMs).
+- Uses [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](#writing-style-guidelines) through public issues, pull requests, and [Slack channels](#slack-channels) (not DMs).
 - Places an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot).
 - Produces video when necessary.
 
@@ -361,7 +361,7 @@ Some of the most common meetings problems are outlined below:
 
 If you are hosting a meeting, it's okay not to have a presentation or have a pre-recorded presentation. What's not okay is [doing the presentation](#common-meeting-problems) during the session because you are taking valuable synchronous time away from the attendees, which could be asynchronous. It is easier to watch a recording in more locations than joining a Zoom call. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](values.md#bias-towards-asynchronous-communication). Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time.
 
-Make a pre-recorded video presentation using mmhmm (TKTK find training materials), and attach it to the meeting agenda. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides.
+Make a pre-recorded video presentation using mmhmm (TKTK find training materials), and attach it to the meeting agenda. At least 24 hours in advance of the meeting, announce in [Slack channels](#slack-channels) that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides.
 
 **Pre-recorded presentations enable the following:**
 
@@ -738,7 +738,7 @@ The following tips provide ways to work respectfully with others given this cont
 
 Slack can be a disorderly place in its default state. Consider implementing the below to add structure and focus, but remember that there will likely be more useful information shared on Slack than you are able to ingest and process on a daily basis, regardless of your approach.
 
-While an intentional effort to organize is important, remember that [it's impossible to know everything](values.md#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](values.md#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly).
+While an intentional effort to organize is important, remember that [it's impossible to know everything](values.md#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](values.md#see-others-succeed). For managing [Slack channels](#slack-channels), consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly).
 
 #### Organizing your Slack sidebar by priority
 
