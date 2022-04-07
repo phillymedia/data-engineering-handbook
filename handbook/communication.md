@@ -774,9 +774,28 @@ Building dedicated time into your day can help minimize the distractions that Sl
 5. If you are having a hard time keeping up with messages, you can update your preferences to have Slack email you all notifications. To change the setting, go to `Preferences > Notifications > When I'm not active on desktop...` and "send me email notifications."
 6. If you agree in a message to start a video call (typically by asking "Call?") the person that didn't leave the last comment starts the call. So either respond to the "Call?" request with a video link or say "Yes" and let the other person start it. Do not say "Yes" and start a call 5 seconds later since it is likely you'll both be creating a video call link at the same time.
 
-### Key Slack channels
+### Slack channels
 
-[TKTK]
+The following is a list of persistent Slack channels that may be relevant to your day-to-day work. Additionally, channels may be created on a temporary basis to track discrete efforts such as projects and events.
+
+| **Channel Name**         | **Description**                                                          |
+|--------------------------|--------------------------------------------------------------------------|
+| #analytics-team          | Analytics team communications                                            |
+| #cats                    | Cat pictures and information for cat owners                              |
+| #data-engineering        | Data Engineering team communications                                     |
+| #data-engineering-alerts | Alerts related to data platform services and processes                   |
+| #data-engineering-cicd   | Alerts related to data platform development (e.g. pull requests, merges) |
+| #data-insights           | Communications pertinent to analytics stakeholders                       |
+| #data-insights-group     | Data Insights Group communications and asynchronous standup reports.      |
+| #digital-social-club     | Memes and other informal communication                                   |
+| #futureworkplace         | Discussions related to return-to-office plans and our new office         |
+| #general                 | General organization communications                                      |
+| #inq4all-content-consult | Place to give and provide feedback on Inquirer content                   |
+| #musicleague             | Informal ongoing song-selection competition                              |
+| #newsroom-style          | Place to discuss our house style with the Inquirer Style Committee       |
+| #peeps                   | HR support channel                                                       |
+| #product-showcase-prep   | Channel to coordinate the monthly Product Showcase presentations         |
+| #support                 | IT support channel                                                       |
 
 ## Video Calls 
 
