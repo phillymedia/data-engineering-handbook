@@ -47,7 +47,6 @@ inquirer-dbt:
       method: oauth
       dataset: dbt_<Your Inquirer Username>
       location: US
-      method: service-account
       priority: interactive
       project: inq-warehouse
       threads: 4
