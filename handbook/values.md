@@ -64,7 +64,7 @@ Share problems you run into, ask for help, be forthcoming with information and *
 Give negative feedback in the smallest setting possible.
 One-on-one video calls are preferred.
 
-Negative *feedback* is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement [in a public channel](/handbook/communication/#use-public-channels), respectfully and [transparently](#transparency).
+Negative *feedback* is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement [in a public channel](/handbook/communication.md#use-public-channels), respectfully and [transparently](#transparency).
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -97,7 +97,7 @@ When providing feedback, always make it about the work itself;
 focus on the business impact and not the person.
 Make sure to provide at least one clear and recent example.
 If a person is going through a hard time in their personal life, then take that into account.
-An example of giving positive feedback is our [thanks chat channel](/handbook/communication/internal-communications).
+An example of giving positive feedback is our [thanks chat channel](/handbook/communication.md#internal-communications).
 For managers, it's important to realize that team members react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one.
 Keeping that in mind, if an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself.
 In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the team member's performance going forward.
@@ -738,7 +738,7 @@ We must practice transparency even when hiding the facts would be easier. Transp
 
 ##### Findability
 
-Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication/#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to PRs in Slack.
+Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication.md##multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to PRs in Slack.
 
 ##### Say why, not just what
 
@@ -882,14 +882,14 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
 1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
-1. Behavior we [compliment](/handbook/communication/#say-thanks).
+1. Behavior we [compliment](/handbook/communication.md##say-thanks).
 1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
 1. What we include in our [offer letters](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements)
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/events/gitlab-contribute/).
 2. Linking the takeaways of courses and trainings to our values.
-3. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
+3. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication.md##link-sharing), agendas, etc.)
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses.
 
