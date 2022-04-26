@@ -271,7 +271,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 ## Inquirer Sits
 
 - Inquirer Sits is a short time for Inquirer team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to medidation, and the final five minutes are dedicated to discussion. 
+- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to meditation, and the final five minutes are dedicated to discussion. 
 - You're welcome to join the call on whichever days work for you.
 - No previous experience is necessary, nothing extra is needed other than a comfortable seat and 25 minutes.
 - If you're interested in joining Inquirer Sits, you can ask for a calendar invite in the #inquirer-sits Slack channel.
@@ -292,7 +292,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 3. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
 4. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
 5. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
-6. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
+6. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. This also allows attendees to proactively create and contribute to a linked meeting notes document. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings). See [this video](https://www.youtube.com/watch?v=M6lHKqVKvQ4&t=23s) for detailed instructions.
 7. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings). This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
    - Write notes and reflect
    - Respond to urgent messages
