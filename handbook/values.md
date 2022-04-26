@@ -23,7 +23,7 @@ The "sub" in sub-value is not in reference to "subordinate," but rather, "**subs
 
 Sub-values clarify what a given core value means and looks like *on the DE team*.
 Understanding this distinction is critical to thriving on the DE team,
-particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
+particularly for newer team members who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
 
 #### Process for removing sub-values
 
@@ -105,8 +105,8 @@ Give recognition generously, in the open, and often to [generate more engagement
 
 ##### Get to know each other
 
-We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
-So we encourage people to get to know each other on a personal level through [TKTK].
+We use a lot of text-based communication, and if you know the person behind the text, it will be easier to prevent conflicts.
+So we encourage people to get to know each other on a personal level through informal 1:1s and Slack DMs.
 
 ##### Reach across company departments
 
@@ -151,7 +151,7 @@ You do have to search for the right answer with help from others.
 In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of Remote Darren M. adds context on this sub-value.
 
 > In many organizations, there's a subtle, low-level, persistent pressure to continually prove your worth.
-> And I believe that this fuels imposter syndrome and wreaks havoc on [mental health](/company/culture/all-remote/mental-health/).
+> And I believe that this fuels imposter syndrome and wreaks havoc on mental health.
 >
 > What's so troubling to me is how often perception is reality.
 > In other words, those who have mastered the art of being perceived as elite reap benefits, though this has nothing to do with actual results.
@@ -160,8 +160,6 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 > Instead of judging people for not approaching work in an agreed-upon way, "no ego" encourages people to glean inspiration from watching others approach work in new and different ways.
 
 Being no ego is a standard we hold ourselves as people to but is not one that applies to the Inquirer as a company or product.
-We want to celebrate and highlight the Inquirer's accomplishments, including being TKTK.
-This doesn't mean we don't recognize our mistakes, including TKTK.
 
 ##### See others succeed
 We want to see each other succeed.
@@ -223,9 +221,6 @@ The other thing to observe is whether people are being promoted based on others 
 We want people to be promoted based on their results.
 We do value collaboration, but that's different than being promoted just because people like you.
 
-##### Collaboration Competency
-[TKTK]
-
 ## Results
 
 We do what we've promised to each other and to our stakeholders
@@ -265,7 +260,6 @@ On the data engineering team, we want to drive stakeholder results through focus
 1. **What we plan to make**. If we focus only on our own plans, we would have the data platform, but very little impact on the company overall.
 2. **Large stakeholders**. This leads to the [innovator's dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma), so we should also focus on small stakeholders and future stakeholders (users).
 3. **What stakeholders ask for**. This means we don't use the phrase "stakeholder focus", because it tempts us to prioritize what the stakeholder _says_ they want over what we discover they actually need through our product development process. Often, it’s easier for a stakeholder to think in terms of a specific solution than to think about the core problem that needs to be solved. But a solution that works well for one stakeholder isn’t always relevant to other stakeholders, and it may not align with our overall product strategy. When a stakeholder asks for something specific, we should strive to understand why, work to understand the broader impact, and then create a solution that scales.
-4. **Our existing scope**. TKTK
 5. **Our assumptions**. Every team works differently, so we can’t assume that what works well for us will support our stakeholders’ needs. When we have an idea, we must directly validate our assumptions with stakeholders to ensure we create scalable, highly relevant solutions.
 6. **What we control**. We should take responsibility for what the **stakeholder experiences**, even when it isn’t entirely in our control.
 
@@ -303,9 +297,9 @@ Given the limited time and resources of our team, time gained or lost has compou
 While we iterate with small changes, we strive for large, ambitious results. We achieve these through:
    1. Keeping the focus on the [results](#results) and the outcome
    2. Not being satisfied with the status quo and setting higher goals
-      1. Ambitious [mission](TKTK) and [vision](TKTK)
+      1. Ambitious mission and vision
       2. Ambitious OKRs
-      3. Having and reporting against [KPIs](TKTK) with guiding targets
+      3. Having and reporting against KPIs with guiding targets
    3. Having other people adopt our way of working
       1. [Handbook](/handbook/)
       2. Promotion of processes
@@ -349,8 +343,6 @@ We should strive to accept that there are things that we don’t know about the 
 
 We should be diligent to define [Directly Responsible Individuals](/handbook/people-group/directly-responsible-individuals/) (DRI). DRIs are empowered to escalate to unblock. Managers at the Inquirer's Data Insights Group seek to increase the output of the work of those on their team, a core concept in [High Output Management](/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
 
-##### Results Competency
-[TKTK]
 
 ## Efficiency
 
@@ -378,7 +370,7 @@ For example, sales is hard because you are dependent on another organization, an
 
 ##### Self-service and self-learning
 
-Team members should first [search for their own answers](/company/culture/all-remote/self-service/) and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](#low-level-of-shame). [Write down any new information discovered](#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
+Team members should first search for their own answers and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](#low-level-of-shame). [Write down any new information discovered](#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
 
 ##### Efficiency for the right group
 
@@ -433,9 +425,6 @@ We value constant improvement by iterating quickly, month after month. If a task
 
 Adoption of features, user requirements, and the competitive landscape change frequently and rapidly. The most successful companies adapt their roadmap and their organization quickly to keep pace. One of the things that makes this challenging is the impact on our team. People may need to change teams, subject matter, or even who manages them. This can rightly feel disruptive. If we coach ourselves to embrace the positive aspects of change, such as increased opportunity and new things to learn, we can move faster as a company and increase our odds of success. It is important to [hold management accountable for being deliberate](#always-iterate-deliberately).
 
-##### Efficiency Competency
-
-[TKTK]
 
 ## Diversity, Inclusion & Belonging
 
@@ -443,9 +432,9 @@ Diversity, inclusion and belonging are fundamental to the success of the Inquire
 
 ##### Bias towards asynchronous communication
 
-Take initiative to operate [asynchronously](/company/culture/all-remote/asynchronous/) whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are [structuring their day](/company/culture/all-remote/people/#creating-a-more-efficient-day) around pressing commitments at home or in their community.
+Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community.
 
-This is demonstrated by communicating recordings of [meetings](/company/culture/all-remote/meetings/), using GitHub Projects, Issues and Pull Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
+This is demonstrated by communicating recordings of meetings, using Jira Projects, Issues and Pull Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
 
 ##### Embracing uncomfortable ideas and conversations
 
@@ -464,19 +453,16 @@ At the Inquirer we believe that everyone is entitled to a safe working space whe
 
 ##### Seek diverse perspectives
 
-We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [Inquirer's definition of Diversity, Inclusion & Belonging](TKTK). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
+We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to Inquirer's definition of Diversity, Inclusion & Belonging. Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
 
 ##### Make family feel welcome
 
-One of the unique elements to an [all-remote culture](/company/culture/all-remote/) is the ability to visit a person's home while collaborating. If the tenor of the meeting allows, feel welcome to invite your family members or pets to drop by and greet your colleagues. Be mindful of language and use of profanity to encourage a family-friendly environment.
+One of the unique elements to an all-remote culture is the ability to visit a person's home while collaborating. If the tenor of the meeting allows, feel welcome to invite your family members or pets to drop by and greet your colleagues. Be mindful of language and use of profanity to encourage a family-friendly environment.
 
 ##### Shift working hours for a cause
 
 Caregiving, outreach programs, and community service do not conveniently wait for regular business hours to conclude. If there's a cause or community effort taking place, feel welcome to work with your manager and shift your working hours to be available during a period where you'll have the greatest impact for good. For colleagues supporting others during these causes, document everything and strive to post recordings so it's easy for them to catch up.
 
-##### Be a mentor
-
-People feel more included when they're supported. To encourage this, and to support diversified learning across departments, TKTK
 
 ##### Culture fit is a bad excuse
 
@@ -489,7 +475,7 @@ We generally avoid discussing politics or religion in public forums because it i
 
 There is sometimes a grey area where advocating for diversity and political activities may intersect. Team members should use discretion in grey area communications, because a culture of belonging requires us to be respectful of the broad spectrum of views within our work environment. What does this mean in practice? Please feel empowered to share information that highlights diversity, inclusion and belonging issues and how Inquirer team members can get involved.
 
-While it is acceptable for individuals to bring up politics and religion in social contexts such as coffee chats and real-life meetups with other coworkers (with the goal to understand and not judge), always be aware of potential sensitivities, exercise your best judgment, and make sure you stay within the boundaries of our [Code of Business Conduct and Ethics](TKTK)
+While it is acceptable for individuals to bring up politics and religion in social contexts such as coffee chats and real-life meetups with other coworkers (with the goal to understand and not judge), always be aware of potential sensitivities, and exercise your best judgment.
 
 If there is a question or concern, please reach out to jrush@inquirer.com 
 
@@ -512,9 +498,6 @@ effect it has on us as humans and our company is large.
 We are responsible for understanding our own implicit biases and helping others
 understand theirs. We are continuously [working on getting better at this topic](/company/culture/inclusion/unconscious-bias/).
 
-##### Inclusive benefits
-
-[TKTK]
 
 ##### Inclusive language & pronouns
 
@@ -531,9 +514,9 @@ This is documented on our page about [interviewing](/handbook/hiring/interviewin
 
 ##### Inclusive meetings
 
-Be consciously inclusive in [meetings](/company/culture/all-remote/meetings/) by giving everyone present an opportunity to talk and present their points of view. This can be especially important in a remote setting.
+Be consciously inclusive in meetings by giving everyone present an opportunity to talk and present their points of view. This can be especially important in a remote setting.
 
-With internal meetings, consider using an agenda document for questions. [TKTK - add more process here]
+With all meetings, consider using an agenda document for questions. Google Calendar allows you to a create a linked meeting notes documented that is well-suited for this purpose.
 
 Stakeholders are not used to working in this way. To promote inclusion with stakeholders: ask participants for their goals; make sure during demos that you pause for question; leave time for discussion.
 
@@ -559,9 +542,6 @@ The most important thing that managers can do is facilitate an environment in wh
 
 Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch?v=6_N_uvq41Pg), and come before work.
 
-##### Diversity, Inclusion & Belonging Competency
-
-TKTK
 
 ## Iteration
 
@@ -671,13 +651,6 @@ handbook, create the new page with a small amount of initial content, get it mer
 quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent pull requests.
 Similarly, when adding features to the Inquirer's Data Platform, consider ways to reduce the scope of the feature before creating the pull request to ensure your pull request is as small as possible.
 
-##### Always iterate deliberately
-
-[TKTK]
-
-##### See it in action
-[TKTK]
-
 ##### 12 things that are not iteration
 
 Iteration is often counterintuitive and difficult to do. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things often mistaken as iteration, but don't meet our definition of iteration. 
@@ -697,8 +670,6 @@ Iteration is often counterintuitive and difficult to do. To clarify what an iter
 
 In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), GitLab co-founder and CEO Sid Sijbrandij elaborates on each of these 12 things that are not iteration. 
 
-##### Iteration Competency
-[TKTK]
 
 ## Transparency
 
@@ -765,9 +736,6 @@ When a Inquirer DE Team Member comes across an ask or material (MR, handbook, et
 
 Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
 
-##### Transparency Competency
-
-[TKTK]
 
 ## Five dysfunctions
 
@@ -829,7 +797,7 @@ This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-
 
 Companies are encouraged to copy and implement the DE team's values. They are Apache 2.0 and can be copied verbatim.
 
-We make our values public for the same [reasons](/company/culture/all-remote/hiring/#make-your-strategy-public) we make our [OKRs](/company/okrs/) (Objectives and Key Results) and [strategy](/company/strategy/) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
+We make our values public for the same reasons we make our OKRs (Objectives and Key Results) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
 
 Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with the DE team's values apply for an open vacancy, this allows our hiring teams to more efficiently move candidates through the [interview process](/handbook/hiring/interviewing/).
 
@@ -861,12 +829,7 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 ## Updating our values
 
 Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the Data Architect or VP of Data & Insights. If you're an employee of the Inquirer please post a link to the PR in the `#data-engineering` Slack channel. 
-TKTK - include instructions for external suggestions
 
-
-## Number of contributors and updates over time
-
-[TKTK]
 
 ## How do we reinforce our values
 
@@ -903,7 +866,7 @@ In negative feedback, we should be specific about what the problem is. For examp
 
 Value erosion can occur when indifference and apathy are tolerated. It can also occur when individuals justify undesired behaviors by interpreting values as "me values" rather than "company values." For example, a team member may speak to the importance of personal efficiency in order to justify not collaborating professionally with peers. This is not what we expect from team members in terms of efficiency and collaboration.
 
-If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in the Inquirer's `#data-engineering` Slack channel (for Inquirer employees) or [TKTK add instructions for external comments]
+If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in the Inquirer's `#data-engineering` Slack channel.
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -924,17 +887,5 @@ From our values we excluded some behaviors that are obvious; we call them our *p
 
 ## What is not a value
 
-- [All-remote](/company/culture/all-remote/) isn't a value. It is something we do because it helps to [practice our values](/company/culture/all-remote/values/) of transparency, efficiency, results, and diversity, inclusion & belonging.
+- All-remote isn't a value. It is something we do because it helps to practice our values of transparency, efficiency, results, and diversity, inclusion & belonging.
 
-## Questions from new team members
-
-TKTK
-
-
-## Mission
-
-TKTK
-
-## Biggest risks
-
-We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/) TKTK. Many of our [values]() help to mitigate some of these risks.
