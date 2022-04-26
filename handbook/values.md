@@ -738,7 +738,7 @@ We must practice transparency even when hiding the facts would be easier. Transp
 
 ##### Findability
 
-Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication.md##multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to PRs in Slack.
+Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication.md#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to PRs in Slack.
 
 ##### Say why, not just what
 
@@ -882,14 +882,14 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
 1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
-1. Behavior we [compliment](/handbook/communication.md##say-thanks).
+1. Behavior we [compliment](/handbook/communication.md#say-thanks).
 1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
 1. What we include in our [offer letters](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements)
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/events/gitlab-contribute/).
 2. Linking the takeaways of courses and trainings to our values.
-3. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication.md##link-sharing), agendas, etc.)
+3. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication.md#link-sharing), agendas, etc.)
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses.
 
