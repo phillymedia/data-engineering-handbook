@@ -182,8 +182,8 @@ In informal acknowledgement scenarios, such as on Slack or on ticket comments, i
 2. Please allow anyone at the Inquirer to edit the presentation (preferred) or at least comment on the presentation.
 3. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
 4. During introductions, make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
-5. At the end of the presentation, when you go to Q&A, stop presenting in Zoom/Google Meet. This way the other people can see the person who is speaking much better.
-6. All presentations on the DE team should be based on screenshots of the handbook, tickets, and pull requests. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
+5. At the end of the presentation, when you go to Q&A, stop presenting in Zoom. This way the other people can see the person who is speaking much better.
+6. All presentations on the DE team should be based on screenshots of the handbook, issues, and pull requests. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
 7. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Pull Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or [PR rate](/handbook/engineering/development/performance-indicators/#development-department-member-mr-rate). Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
 8. When your presentation includes graphs or other data, make sure your graphs have clear titles and dimensions. Make sure your data has significant figures and labels. For example, use 'January: 1.95M projects' instead of 'January: 1.95M'. Keep in mind that your audience may not have the full context, especially if they are reading the presentation asynchronously.
 9.  When giving a presentation, your commentary should not be a regurgitation of the words in the slide. The audience can read the slide for themselves; your commentary should focus on the most important takeaways.
@@ -268,7 +268,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 ## Inquirer Sits
 
 - Inquirer Sits is a short time for Inquirer team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to medidation, and the final five minutes are dedicated to discussion. 
+- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to meditation, and the final five minutes are dedicated to discussion. 
 - You're welcome to join the call on whichever days work for you.
 - No previous experience is necessary, nothing extra is needed other than a comfortable seat and 25 minutes.
 - If you're interested in joining Inquirer Sits, you can ask for a calendar invite in the #inquirer-sits Slack channel.
@@ -289,7 +289,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 3. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
 4. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
 5. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
-6. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
+6. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. This also allows attendees to proactively create and contribute to the linked meeting notes document. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings). See [this video](https://www.youtube.com/watch?v=M6lHKqVKvQ4&t=23s) for detailed instructions.
 7. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings). This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
    - Write notes and reflect
    - Respond to urgent messages
@@ -301,7 +301,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 
 Key practices to consider during any meeting are listed below.
 
-1. Video Calls - If this is your first time meeting a stakeholder, vendor, employee, or other partner, turn on your camera when you join Zoom/Google Meet. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
+1. Video Calls - If this is your first time meeting a stakeholder, vendor, employee, or other partner, turn on your camera when you join Zoom. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
 2. "No agenda, no attenda" - Always have an [agenda prepped and ready to go](/company/culture/all-remote/live-doc-meetings/), with the exception of purely informal meetings (e.g. social events, virtual happy hours). Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
 3. 70/30 Rule - Ask open ended questions that leave the audience talking 70% of the time, while you are talking 30% of the time. Please note that this varies based on the type of meeting that you are conducting. Be conscious of what questions need to be asked and to capture those items.
 4. Take Notes - Effective note-taking is a valuable skill that will help you retain and recall any important details. Be the person who remembers all the details of your audience's needs.
@@ -406,11 +406,9 @@ Indicate your availability by updating your own calendar using Google's ["out of
 5. [Hybrid calls are annoying](#hybrid-calls-are-annoying).
 6. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
 7. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
-8.  It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable.
-   This is a situation where we have to do something counter intuitive to make all-remote meetings work. On the DE team, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue.
-   Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
+8.  It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable. This is a situation where we have to do something counter intuitive to make all-remote meetings work. On the DE team, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue. Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
 11. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
-12. Do not use the chat of products like Zoom or Google Meet to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call.
+12. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call.
 13. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question, e.g. 'Jay about credit-cards'.
 14. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
 15. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/).
@@ -791,10 +789,6 @@ The following is a list of persistent Slack channels that may be relevant to you
 | #peeps                   | HR support channel                                                       |
 | #product-showcase-prep   | Channel to coordinate the monthly Product Showcase presentations         |
 | #support                 | IT support channel                                                       |
-
-## Video Calls 
-
-[TKTK - let's pick one Zoom, Slack, Meet]
 
 ## Google Calendar
 
