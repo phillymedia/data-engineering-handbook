@@ -2,7 +2,7 @@
 
 Currently, we're an all-remote team, so it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
-To accomplish this, we use <b>[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point</b> and stay as open and transparent as we can by communicating through public issues, [pull requests](#everything-starts-with-a-pull-request), and [Slack channels](#slack-channels).
+To accomplish this, we use <b>[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point</b> and stay as open and transparent as we can by communicating through Jira tickets, [pull requests](#everything-starts-with-a-pull-request), and [Slack channels](#slack-channels).
 
 We also place an emphasis on ensuring that conclusions of offline conversations are written down.
 When we go **back and forth three times,** we jump on a [synchronous video call](#video-calls).
@@ -25,59 +25,56 @@ Embracing asynchronous communication and learning to use it effectively requires
 
 ## Everyone is a moderator
 
-If you see something that concerns you in Slack, Issues, Pull Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
+If you see something that concerns you in Slack, Jira tickets, Pull Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
 
 ## Everything starts with a Pull Request
 
-It's best practice to start a discussion where possible with a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) instead of an issue. A PR is associated with a specific change that is proposed and transparent for everyone to review and openly discuss. The nature of PRs facilitate discussions around a proposed solution to a problem that is actionable. An PR is actionable, while an issue will take longer to take action on.
+It's best practice to start a discussion where possible with a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) instead of a Jira ticket. A PR is associated with a specific change that is proposed and transparent for everyone to review and openly discuss. The nature of PRs facilitate discussions around a proposed solution to a problem that is actionable. An PR is actionable, while a Jira ticket will take longer to take action on.
 
-1. Always **open** an PR for things you are suggesting and/or proposing. Whether something is not working right or we are iterating on a new internal process, it is worth opening a pull request with the minimal viable change instead of opening an issue encouraging open feedback on the problem without proposing any specific change directly. Remember, a PR also invites discussion, but it's specific to the proposed change which facilitates focused decision.
-1. Never ask someone to create an issue when they can default to the pull request.
-1. Starting with a Pull Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for everyone to contribute to our platform. This is true, not just for updating the handbook but for updating all things.
-2. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](values.md#minimal-viable-change-mvc) proposed in the PR.
-3. Be proactive and consistent with communication. It's important to keep communication flowing to keep everyone up to date. PRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that PRs are closed in a timely manner through approving or rejecting the open requests.
-4. Have a **bias for action** and [do not aim for consensus](/handbook/leadership/#making-decisions). Every PR is a [proposal](values.md#make-a-proposal), if an PRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
-5. **Cross link** issues or other PRs with related conversations. E.g. if there’s a Jira ticket or GitHub issue that caused you to create a GitHub.com PR, make sure to document the PR link in the ticket/issue and vice versa. And when approving or rejecting the PR, include reason or response from Zendesk. Put the link at the top of each PR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
+1. Always **open** an PR for things you are suggesting and/or proposing. Whether something is not working right or we are iterating on a new internal process, it is worth opening a pull request with the minimal viable change instead of opening a ticket encouraging open feedback on the problem without proposing any specific change directly. Remember, a PR also invites discussion, but it's specific to the proposed change which facilitates focused decision.
+2. Never ask someone to create a ticket when they can default to the pull request.
+3. Starting with a Pull Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for everyone to contribute to our platform. This is true, not just for updating the handbook but for updating all things.
+4. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](values.md#minimal-viable-change-mvc) proposed in the PR.
+5. Be proactive and consistent with communication. It's important to keep communication flowing to keep everyone up to date. PRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that PRs are closed in a timely manner through approving or rejecting the open requests.
+6. Have a **bias for action** and [do not aim for consensus](/handbook/leadership/#making-decisions). Every PR is a [proposal](values.md#make-a-proposal), if an PRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
+7. **Cross link** tickets or other PRs with related conversations. E.g. if there’s a Jira ticket that caused you to create a GitHub.com PR, make sure to document the PR link in the ticket and vice versa. And when approving or rejecting the PR, include reason or response from Zendesk. Put the link at the top of each PR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
    1. When providing links to specific lines of code relevant to the PR, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet).
-6. If submitting a change for a feature, **update the description with the final conclusions** (Why an PR was rejected or why it was approved). This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion and discussion later on.
-7. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate issues/PRs and link them. An PR can start off as only a problem description and TODO comments. If you're new to GitHub and are writing documentation or instructions, submit your first pull request for at most 20 lines.
-8. Do not leave PRs open for a long time. PRs should be **actionable** -- stakeholders should have a clear understanding of what changed and what they are ultimately approving or rejecting.
-9. Make a conscious effort to **prioritize** your work. The priority of items depends on multiple factors: Is someone waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.?
-10. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a data engineer and you propose a solution, ping a fellow data engineer to review your work. If they suggest changes, you get the opportunity to improve your solution and propose an alternative PR. This promotes collaboration and advances everyone's skills.
-11. Respond to comments within a **threaded discussion**. 
-12. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently.
-13. If you have received any feedback or questions on your PR, try to acknowledge comments as that's how we ensure we create an environment of belonging for all team members. Merging your PR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals/) (DRI) who does not have to make a fast decision, you can choose not to change your PR, but you should acknowledge the comments or feedback, consider if they warrant a change to your PR, and [say why, not just what](values.md#say-why-not-just-what).
+8. If submitting a change for a feature, **update the description with the final conclusions** (Why an PR was rejected or why it was approved). This makes it much easier to see the current state of an tickets for everyone involved in the implementation and prevents confusion and discussion later on.
+9. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate tickets/PRs and link them. An PR can start off as only a problem description and TODO comments. If you're new to GitHub and are writing documentation or instructions, submit your first pull request for at most 20 lines.
+10. Do not leave PRs open for a long time. PRs should be **actionable** -- stakeholders should have a clear understanding of what changed and what they are ultimately approving or rejecting.
+11. Make a conscious effort to **prioritize** your work. The priority of items depends on multiple factors: Is someone waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.?
+12. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a data engineer and you propose a solution, ping a fellow data engineer to review your work. If they suggest changes, you get the opportunity to improve your solution and propose an alternative PR. This promotes collaboration and advances everyone's skills.
+13. Respond to comments within a **threaded discussion**. 
+14. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently.
+15. If you have received any feedback or questions on your PR, try to acknowledge comments as that's how we ensure we create an environment of belonging for all team members. Merging your PR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals/) (DRI) who does not have to make a fast decision, you can choose not to change your PR, but you should acknowledge the comments or feedback, consider if they warrant a change to your PR, and [say why, not just what](values.md#say-why-not-just-what).
    If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
    When fast decisions are needed, [we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input](/handbook/leadership/#making-decisions). The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](values.md#disagree-commit-and-disagree).
 14. For the Inquirer data platform, the pull request guidelines are in the TKTK [[Contribution
    guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-guidelines)] and code review guidelines for reviewers and maintainers are described in our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 15. Even when something is not done, share it internally so people can comment early and prevent rework.
 16. Create a <b>[Work In Progress (WIP)]</b> pull request to prevent an accidental early merge. Only use WIP when merging it would **make things worse** (this should rarely be the case when contributing to the handbook, for example). Most pull requests that are in progress don't make things worse. In this case, do not use WIP; if someone merges it earlier than you expected just create a new pull request for additional items. Never ask someone to do a final review or merge something that still has WIP status.
-17. If any follow-up actions are required on the issue after the pull request is merged (like reporting back to any customers or writing documentation), avoid auto-closing the issue.
-18. If a project requires multiple approvals to accept your PR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
+17. If a project requires multiple approvals to accept your PR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 
-## Issues
+## Tickets
 
-Issues are useful when there isn't a specific code change that is being proposed or needed. For example, you may want to start an issue for tracking progress or for project management purposes that do not pertain to code commits. This can be particularly useful when tracking team tasks and creating issue boards. However it is still important to maintain focus when opening issues by defining a single specific topic of discussion as well as defining the desired outcome that would result in the resolution of the issue. The point is to not keep issues open-ended and to prevent issues from going stale due to lack of resolution. For example, a team member may open an issue to track the progress of a presentation with associated to-do items that need to be completed by a certain date (e.g. first draft, recording, publish). Once the specific items are completed, the issue can successfully be closed. Below are a few things to remember when creating issues:
+Tickets are useful when there isn't a specific code change that is being proposed or needed. For example, you may want to start a ticket for tracking progress or for project management purposes that do not pertain to code commits. This can be particularly useful when tracking team tasks and creating Jira boards. However it is still important to maintain focus when opening tickets by defining a single specific topic of discussion as well as defining the desired outcome that would result in the resolution of the ticket. The point is to not keep ticket open-ended and to prevent tickets from going stale due to lack of resolution. For example, a team member may open an ticket to track the progress of a presentation with associated to-do items that need to be completed by a certain date (e.g. first draft, recording, publish). Once the specific items are completed, the ticket can successfully be closed. Below are a few things to remember when creating tickets:
 
-1. When **closing** an issue leave a comment explaining why you are closing the issue and what the MVC outcome was of the discussion (if it was implemented or not).
-1. We keep our **promises** and do not make external promises without internal agreement.
-1. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. Issues can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that issues are closed in a timely manner. One way of doing this is having the current assignee set a due date for when they will provide another update. This can be days or weeks ahead depending on the situation, prioritization, and available capacity that we may have.
-2. **Cross link** issues or PRs with related conversations. Another example is to add "Report: " lines to the issue description with links to relevant issues and feature requests. When done, add a comment to relevant issues (and close them if you are responsible for reporting back, or reassign if you are not). This prevents internal confusion and us failing to report back to the reporters.
-3. When cross-linking issues or PRs, include a preview of the content you are linking, to facilitate low-context communication:
+1. When **closing** a ticket leave a comment explaining why you are closing the ticket and what the MVC outcome was of the discussion (if it was implemented or not).
+2. We keep our **promises** and do not make external promises without internal agreement.
+3. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. Tickets can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that tickets are closed in a timely manner. One way of doing this is having the current assignee set a due date for when they will provide another update. This can be days or weeks ahead depending on the situation, prioritization, and available capacity that we may have.
+4. **Cross link** tickets or PRs with related conversations. When done, add a comment to relevant tickets (and close them if you are responsible for reporting back, or reassign if you are not). This prevents internal confusion and us failing to report back to the reporters.
+5. When cross-linking tickets or PRs, include a preview of the content you are linking, to facilitate low-context communication:
    1. Good: `this would cause performance issue similar to #123456`. The reader has full information on first read and can refer to the link for more.
    2. Avoid: `this would cause issue similar to #123456`. The reader needs to click the link and find the relevant information among other discussion threads, before switching back to the original discussion.
-4. When providing links to specific lines of code relevant to the issue, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet).
-5. Assign an issue to yourself as soon as you start to work on it, but not before that time. If you complete part of an issue and need someone else to take the next step, **re-assign** the issue to that person.
-6. Ensure the issue **title** states what the desired outcome should be. For instance, for bugs make sure the issue states the desired result, not the current behavior.
-7.  **Regularly update** the issue description with the latest information and its current status, especially when important decisions were made during the discussion. The issue description should be the **single source of truth**.
-8.  If you want someone to review an issue, do not assign them to it. Instead, @-mention them in an issue comment. Being assigned to an issue is a signal that the assignee should or intends to work on it. So you should not assign someone to an issue and mis-represent this with a false signal.
-9.  If you'd like to inform someone about an issue, or assign a task to them - do so via an issue comment not just adding them to the description. Here's why - the To Do generated when mentioning someone in an issue description provides little context to the action requested, explicitly informing them of the action via a comment ensures when they read the To Do they have more context without reading the entire issue.
-10. Do not close an issue until it is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done). It's okay to explicitly ask if everyone is on board and in agreement on how to move forward, whether to iterate, close the open issue, or create a subsequent PR to implement a MVC.
-11. Once a feature is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), update the description to add a link to the corresponding documentation. When using a Search Engine, issues often appear before documentation pages, which makes it harder to find the relevant information about the feature.
-12. Write issues so that they exclude private information. This way, the issue can be public. Only use confidential issues, if the issue must contain [non-public information](#not-public). **Note:** Confidential issues are [accessible to all members of the project with Reporter access and above](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#permissions-and-access-to-confidential-issues). You may consider using a Google Doc for items that require a stricter level of confidentiality.
-13. If the content within a public issue transitions to become what is deemed confidential [non-public information](#not-public), the issue may be made confidential.
-14. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](/handbook/marketing/community-relations/community-operations/workflows/code-of-conduct-enforcement/#overview).
+6. When providing links to specific lines of code relevant to the ticket, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet).
+7. Assign an ticket to yourself as soon as you start to work on it, but not before that time. If you complete part of an ticket and need someone else to take the next step, **re-assign** the ticket to that person.
+8. Ensure the ticket **title** states what the desired outcome should be. For instance, for bugs make sure the ticket states the desired result, not the current behavior. The desired outcome should also be described in greater detail in the Definition of Done ("DoD") field.
+9.  **Regularly update** the ticket's description and DoD the latest information and its current status, especially when important decisions were made during the discussion. The ticket's DoD should be the **single source of truth**.
+10. If you want someone to review a ticket, do not assign them to it. Instead, @-mention them in an ticket comment. Being assigned to an ticket is a signal that the assignee should or intends to work on it. So you should not assign someone to an ticket and mis-represent this with a false signal.
+11. If you'd like to inform someone about an ticket, or assign a task to them - do so via an ticket comment not just adding them to the description.
+12. Do not close an ticket until it is **done**, that is, when the Definition of Done is satisfied. It's okay to explicitly ask if everyone is on board and in agreement on how to move forward, whether to iterate, close the open ticket, or create a subsequent PR to implement a MVC.
+13. Once a feature is **done**, update the ticket description to add a link to the corresponding documentation.
+14. Write tickets so that they exclude private information. This way, the tickets can be public. If the ticket must contain non-public information, you may consider using a Google Doc for items that require a stricter level of confidentiality.
 
 ## Asynchronous communication
 
@@ -86,18 +83,18 @@ In an [all-remote setting](/company/culture/all-remote/terminology/), mastering 
 ## Top tips and best practices
 
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
-1. Use **asynchronous communication** when possible: pull requests (preferred) or issues. Announcements happen on the appropriate [Slack channels](#slack-channels) and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
-1. Discussion in issues or Pull Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an issue or pull request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
+1. Use **asynchronous communication** when possible: pull requests (preferred) or Jira tickets. Announcements happen on the appropriate [Slack channels](#slack-channels) and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
+1. Discussion in tickets or Pull Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an ticket or pull request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
 2. If you choose to email instead of chat it is OK to send an email that contains only a short message, similar as you would use in chat.
 3. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
 4. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
-5. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use issues or public chat channels instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
+5. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use tickets or public chat channels instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
 6. If you send a handbook link to someone as an answer to a question, consider adding some context, especially if they are new to the Inquirer. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member. 
 7. If the answer to a question isn't documented, please immediately make a pull request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A pull request is the best way to say thanks for help.
-8. If you mention something (a pull request, issue, commit, webpage, comment, etc.) please include a link to it.
-9. All company data should be **shareable** by default. Do not use a local text file, but rather leave comments on an issue.
+8. If you mention something (a pull request, ticket, commit, webpage, comment, etc.) please include a link to it.
+9. All team assets should be **shareable and editable** by default.
 10. When someone asks something, give back a deadline or that you did it. Answers like: 'will do', 'OK', 'it is on my todo list' are not helpful. If it is small it's better to spend 2 minutes and do the tasks so the other person can mentally forget about it. If it is large you need to figure out when you'll do it, by returning that information the other person might decide to solve it in another way if it takes too long.
-11. It is OK to bring an issue to someone's attention with a CC ("cc @user"), but CCs alone are not enough if specific action is needed from someone. The mentioned user may read the issue and take no further action. If you need something, please explicitly communicate your need along with @ mentioning who you need it from.
+11. It is OK to bring a ticket to someone's attention with a CC ("cc @user"), but CCs alone are not enough if specific action is needed from someone. The mentioned user may read the ticket and take no further action. If you need something, please explicitly communicate your need along with @ mentioning who you need it from.
 12. Avoid creating private groups for internal discussions:
    1. It's disturbing (all users in the group get notified for each message).
    2. It's not searchable.
@@ -127,7 +124,7 @@ If something is behaving strangely on the data platform, it might be a bug. It c
 
 Employ multimodal communication to broadcast important decisions. To reach our distributed organization, announce important decisions in the company announcements Slack channel, email the appropriate team email lists, Slack the appropriate channels, and target 1:1s or other important meetings on the same day, with the same information.
 
-When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, issue, or Google Doc. The email or Slack message should not be the source of truth.
+When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, ticket, or Google Doc. The email or Slack message should not be the source of truth.
 
 When referring to email that recipients should have received, reference the sender and subject of the email so it's easy to find. For example, "You should have received an email from Jane Smith with the subject 'Training Seminar Details'".
 
@@ -135,7 +132,7 @@ When referring to email that recipients should have received, reference the send
 
 In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication on the DE team:
 
-- Uses [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](#writing-style-guidelines) through public issues, pull requests, and [Slack channels](#slack-channels) (not DMs).
+- Uses [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](#writing-style-guidelines) through Jira tickets, GitHub pull requests, and [Slack channels](#slack-channels) (not DMs).
 - Places an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot).
 - Produces video when necessary.
 
@@ -143,9 +140,9 @@ In an all-remote organization effective communication is key to exchanging knowl
 **Skills and behavior of applying effective communication as a Team Member**:
 
 - Effectively practices communication via text.
-- Uses asynchronous communication when possible: pull requests (preferred) or issues.
+- Uses asynchronous communication when possible: pull requests (preferred) or tickets.
 - Directs all communication to the appropriate channels (Slack, Inquirer, email).
-- Recognises when synchronous communication is the more appropriate option.
+- Recognizes when synchronous communication is the more appropriate option.
 - Directs all decisions and discussions to the Handbook as a single source of truth.
 - Records videos to communicate information when that is the most efficient and effective way to consume the content.
 - Employs multimodal communication to broadcast important decisions.
@@ -171,7 +168,7 @@ Linking should not be in one direction. We should go beyond deep-linking to crea
 
 ## Acknowledgement Receipts
 
-In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following to signal acknowledgement:
+In informal acknowledgement scenarios, such as on Slack or on ticket comments, it is common practice to use the following to signal acknowledgement:
 
 - Eyes 👀 => I’ll check this out or seen and will do
 - Thumbs up 👍 => good idea
@@ -224,7 +221,7 @@ As we continue to build on [inclusion](values.md#diversity-inclusion), recogniti
 
 ## Communicate directly
 
-When working on a problem or issue, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
+When working on a problem or ticket, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
 Escalate to management if you are not getting the support you need. Remember that everyone is a [manager of one](values.md#managers-of-one) and they might have to complete their own assignments and inform the reporting lines.
 
 ## Effective Listening
@@ -390,30 +387,26 @@ Indicate your availability by updating your own calendar using Google's ["out of
 
 ## Video calls
 
-1. Use video calls if you find yourself going back and forth in an issue/via email
-   or over chat. Guideline: if you have gone **back and forth 3 times**, it's time
-   for a video call.
-1. Sometimes it's better to _not_ have a video call. Consider these tradeoffs:
+1. Use video calls if you find yourself going back and forth in a ticket, email, or chat. Guideline: if you have gone **back and forth 3 times**, it's time for a video call.
+2. Sometimes it's better to _not_ have a video call. Consider these tradeoffs:
    - It is difficult (or impossible) to multi-task in a video call.
-   - It may be more efficient to have an async conversation in an issue, depending on the topic.
-   - A video call is limited in time: A conversation in an issue can start or stop at any time, whenever there's interest. It is async.
-   - A video call is limited in people: You can invite anybody into an async conversation at any time in an issue. You don't have to know who the relevant parties are ahead of time. Everyone can contribute at any time. A video call is limited to invited attendees (and those who have accepted).
-   - You can easily "promote" an async conversation from an issue to a video call, as needed. The reverse is harder. So there is lower risk to start with an async conversation.
-   - For a newcomer to the conversation, it's easier and more efficient to parse an issue, than read a video transcript or watch it.
-   - Conversations in issues are easily searchable. Video calls are not.
-1. Try to have your video on at all times because it's much more engaging for participants.
+   - It may be more efficient to have an async conversation in an ticket or PR, depending on the topic.
+   - A video call is limited in time: A conversation in a ticket or PR can start or stop at any time, whenever there's interest. It is async.
+   - A video call is limited in people: You can invite anybody into an async conversation at any time in a ticket. You don't have to know who the relevant parties are ahead of time. Everyone can contribute at any time. A video call is limited to invited attendees (and those who have accepted).
+   - You can easily "promote" an async conversation from a ticket to a video call, as needed. The reverse is harder. So there is lower risk to start with an async conversation.
+   - For a newcomer to the conversation, it's easier and more efficient to parse a ticket, than read a video transcript or watch it.
+   - Conversations in tickets are easily searchable. Video calls are not.
+3. Try to have your video on at all times because it's much more engaging for participants.
    - Do not worry if you [can't pay attention at the meeting](#paying-attention-in-meetings) because you're doing something else, you are the manager of your attention. The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.
    - During internal calls, it's okay to eat on video if you're hungry or the call is during your lunch time (please turn your mic off).
    - You should ensure that you are properly dressed for all video calls. Properly dressed means that you are wearing clothing that covers the top and bottom parts of your body. We do not have a strict dress code policy, but want to make sure that all participants on video calls feel comfortable. If you cannot be properly dressed for the entirety of the call, you should not join, but watch a recording at a later time.
    - Having pets, children, significant others, friends, and family visible during video chats is encouraged. 
    - Do not feel forced to have your video on, use your best judgement.
-2. We prefer Zoom
-3. [Hybrid calls are annoying](#hybrid-calls-are-annoying).
-4. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
-5. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
-6.  It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable.
-   This is a situation where we have to do something counter intuitive to make all-remote meetings work. On the DE team, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue.
-   Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
+4. We prefer Zoom.
+5. [Hybrid calls are annoying](#hybrid-calls-are-annoying).
+6. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
+7. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
+8.  It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable. This is a situation where we have to do something counter intuitive to make all-remote meetings work. On the DE team, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue. Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
 11. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
 12. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call.
 13. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question, e.g. 'Jay about credit-cards'.
@@ -521,7 +514,7 @@ Theoretically you can have multiple people in a room with their own equipment bu
 10. When specifying measurements, please include both Metric and Imperial equivalents.
 11. Although we're a San Francisco based company we're also an internationally diverse one. Please do not refer to team members outside the US as international, instead use non-US. Please also avoid the use of offshore/overseas to refer to non-American continents.
 12. If you have multiple points in a comment or email, please number them. Numbered lists are easier to reference during a discussion over bulleted lists.
-13. When you reference an issue, pull request, comment, commit, page, doc, etc. and you have the URL available please paste that in.
+13. When you reference an ticket, pull request, comment, commit, page, doc, etc. and you have the URL available please paste that in.
 14. In making URLs, always prefer hyphens to underscores, and always use lowercase.
 15. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
 16. Refer to products by tier name only on Marketing pages: Our tier names are Ultimate, Premium, and Free. When both deployment models are being referred to (SaaS and self-managed), use the tier name only. When only one of the deployment models is being referred to, prefix the tier name with the deployment model. E.g., SaaS-Premium, Self-Managed-Ultimate.
@@ -650,7 +643,7 @@ Slack is used for:
 - Asynchronous team standups, questions, and quick collaboration
 - Informal communication
 
-Use a [bias for action](values.md#bias-for-action) to quickly move conversations that require collaboration and action out of Slack and into an issue.
+Use a [bias for action](values.md#bias-for-action) to quickly move conversations that require collaboration and action out of Slack and into an ticket.
 
 Slack should specifically NOT be used for:
 
@@ -705,7 +698,7 @@ We don't want to eliminate them.
 
 ### Use public channels
 
-- If you use Slack and plan to message 3 or more people, we recommend a channel for customer/issue/project/problem/partnership.
+- If you use Slack and plan to message 3 or more people, we recommend a channel for customer/issue/project/problem partnership.
 - If something is important but not urgent - like complimenting or encouraging the entire team - use email or post in the channel without `@`-mentioning the team.
 - It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
 
@@ -767,7 +760,7 @@ Building dedicated time into your day can help minimize the distractions that Sl
 
 ### General guidelines
 
-1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](values.md#make-a-proposal) and [iteration](values.md#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [pull request](#everything-starts-with-a-pull-request) instead.
+1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](values.md#make-a-proposal) and [iteration](values.md#iteration). If the subject is of value to the wider community, consider commenting on an existing ticket or opening a new [pull request](#everything-starts-with-a-pull-request) instead.
 2. In general, you can think of emoji reactions as equivalent to body-language responses we use in real-life conversations, such as nodding your head as encouragement when a verbal (or in Slack, written) response might be too much.
 3. In public channels, [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) are valuable for keeping conversations together. If you want to respond to a question or comment in a channel, please start a thread instead of responding below them in the channel. This helps to keep the discussion in one place where it is easy to follow, and reduces noise as each message in a thread does not result in an unread message for everyone in the channel.
 4. Unless you're in an active chat, don't break up a topic into multiple messages as each one will result in a notification which can be disruptive. Use [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) if you want to provide extra info to the question/comment you posted.

@@ -52,7 +52,7 @@ Give as much positive feedback as you can, and do it in a public way.
 
 There are aspects of our team culture, such as intentional transparency, that are unintuitive to outsiders and new team members.
 Be willing to invest in people and engage in open dialogue.
-For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand [it's impossible to know everything](#its-impossible-to-know-everything).
+Don't be afraid of judgement or scrutiny when sharing publicly, we all understand [it's impossible to know everything](#its-impossible-to-know-everything).
 
 Everyone can **remind** anyone on our team about our values.
 If there is a disagreement about the interpretations, the discussion can be escalated to more people within the Data Insights group without repercussions.
@@ -354,7 +354,7 @@ Most companies regress to the mean and slow down over time. While some changes a
 
 ##### Write things down
 
-We document everything: in the handbook, in meeting notes, in issues.
+We document everything: in the handbook, in meeting notes, in tickets.
 We do that because "[the faintest pencil is better than the sharpest memory](https://www.quora.com/What-does-The-faintest-pencil-is-better-than-the-sharpest-memory-mean)."
 It is far more efficient to read a document at your convenience than to have to ask and explain. Having something in version control also lets everyone contribute suggestions to improve it.
 
@@ -434,7 +434,7 @@ Diversity, inclusion and belonging are fundamental to the success of the Inquire
 
 Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community.
 
-This is demonstrated by communicating recordings of meetings, using Jira Projects, Issues and Pull Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
+This is demonstrated by communicating recordings of meetings, using Jira tickets and GitHub Pull Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
 
 ##### Embracing uncomfortable ideas and conversations
 
@@ -545,7 +545,7 @@ Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch
 
 ## Iteration
 
-We do the smallest thing possible and get it out as quickly as possible. If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
+We do the smallest thing possible and get it out as quickly as possible. If you make suggestions that can be excluded from the first iteration, turn them into a separate ticket that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
 
 Iteration is a challening value to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. It's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product, but it is possible to ship a minimally viable product while continuing to adhere to the documented quality standards.
 
@@ -715,7 +715,7 @@ Our transparency value means more than just making information accessible to all
 
 Transparent changes have the reasons for the change laid out clearly along with the change itself. This leads to fewer questions later on because people already have some understanding. A change with no public explanation can lead to a lot of extra rounds of questioning, which is less efficient.
 
-This also helps with institutional memory: a year from now when you want to know why a decision was made, or not, the issue or PR that has the decision also shares why the decision was made.
+This also helps with institutional memory: a year from now when you want to know why a decision was made, or not, the ticket or PR that has the decision also shares why the decision was made.
 This is related to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) - it's much easier to suggest removing or changing something if you know why it exists in the first place.
 
 Avoid using terms such as "industry standard" or "best practices" as they are vague, opaque, and don't provide enough context as a reason for a change.
@@ -779,7 +779,7 @@ On the other hand, as the DE team scales, we need to make decisions and the deci
 If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle.
 In these cases, it's best to have time-boxed feedback built into timelines.
 
-In a hypothetical example where a DRI needs to decide between red and gold potatoes for a stew, they would create an issue with the following sentiment:
+In a hypothetical example where a DRI needs to decide between red and gold potatoes for a stew, they would create a ticket with the following sentiment:
 
 > We’re deciding between red potatoes and gold potatoes to go into the soup. We have to decide by Tuesday 2020-07-14 so that we can get our order to the grocery store on Wednesday 2020-07-15. We’ll be collecting input and feedback until that point. Jane is the DRI and will make the decision on 2020-07-14 with all the information we have at that point. Here is the framework we’re using for the decision:
 >

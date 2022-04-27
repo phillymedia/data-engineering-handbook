@@ -36,6 +36,6 @@ There are three **Data Engineering Team Operating Principles**:
 * Partner with each Business function while having a high-quality, maintainable code base
 * Open source our code when possible, keeping data security and data sensitivity in mind 
 * There is a single source of truth for every analytic question within a company, and it is also important to represent multiple perspectives to provide the most thorough data insights
-* [Glue work](https://www.locallyoptimistic.com/post/glue-work/) is important for the health of the team and is recognized individually for the value it provides. We expect [everyone to contribute](/handbook/values/#mission). 
+* [Glue work](https://www.locallyoptimistic.com/post/glue-work/) is important for the health of the team and is recognized individually for the value it provides. We expect [everyone to contribute](/handbook/values.md#mission). 
 * Focus our limited resources where data will have the greatest impact
 * All business users should be able to learn how to interpret and calculate simple statistics
