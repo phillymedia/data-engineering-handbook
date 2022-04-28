@@ -24,8 +24,8 @@ _Key Result_: each of the following business categories has at least one data se
 _Objective_: Ensure data platform adoption, utilization, and socialization by providing data engineers and analysts hands-on experience with the platform technologies.
 
 #### O3KR1
-_Key Result_: Each member of the team performs data engineering work that contributes to a Q2 Product Showcase presentation [0/3]
+_Key Result_: Each member of the team performs data engineering work that contributes to a Q2 Product Showcase presentation [1/3]
 
 #### O3KR2
 _Key Result_: 
-Key Result 2: At least 4 members of the Analytics team have submitted and merged at least 2 pull requests each for changes to the Inquirer's dbt codebase. [0/8]
+Key Result 2: At least 4 members of the Analytics team have submitted and merged at least 2 pull requests each for changes to the Inquirer's dbt codebase. [1/8]
