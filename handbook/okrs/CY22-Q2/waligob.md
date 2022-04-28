@@ -13,7 +13,7 @@ Any component of our cloud infrastructure can be deployed via a push-button proc
 _Objective_: Nurture the development of a productive, high-performing, and fulfilled data engineering team
 
 #### O2KR1 
-_Key Result_: For every sprint, the team completes 100% of planned sprint work. [0/6]
+_Key Result_: For every sprint, the team completes 100% of planned sprint work. [0/4]
 
 #### O2KR2 
 _Key Result_: Given sufficient business and technical requirements, each data engineer can develop and deploy the following without assistance 
