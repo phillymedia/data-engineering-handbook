@@ -7,13 +7,13 @@ _Objective_:  Lead the technical design and implementation of an end-to-end mode
 _Key Result_: The data engineering and analytics teams have write access to a data catalog tool that we’ve selected to fulfill the organization’s data discovery needs. [0/1]
 
 #### O1KR2 
-Any component of our cloud infrastructure can be deployed via a push-button process [1.5/4]
+Any component of our cloud infrastructure can be deployed via a push-button process [2.5/4]
 
 ### O2
 _Objective_: Nurture the development of a productive, high-performing, and fulfilled data engineering team
 
 #### O2KR1 
-_Key Result_: For every sprint, the team completes 100% of planned sprint work. [0/6]
+_Key Result_: For every sprint, the team completes 100% of planned sprint work. [0/4]
 
 #### O2KR2 
 _Key Result_: Given sufficient business and technical requirements, each data engineer can develop and deploy the following without assistance 
