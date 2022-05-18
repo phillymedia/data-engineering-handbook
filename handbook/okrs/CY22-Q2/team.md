@@ -7,7 +7,7 @@ _Objective_: Design, implement, maintain, and enhance a modern data platform tha
 _Key Result_: At least one new end-to-end use case is operationalized on the data platform, including data capture, modeling, transformation, orchestration, and discovery. [1/5]
 
 #### O1KR2 
-All 3 codebases and 4 cloud infrastructure services that currently comprise the data platform are tracked via source control, and are deployed via CI/CD. [7/14]
+All 3 codebases and 4 cloud infrastructure services that currently comprise the data platform are tracked via source control, and are deployed via CI/CD. [13/14]
 
 ### O2 Onboard data
 
