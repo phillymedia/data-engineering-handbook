@@ -2,54 +2,38 @@
 
 [Poetry](https://python-poetry.org/) is the tool we use for dependency management, environment management, and packaging in Python.
 
-### Prerequisites
+## System Requirements
 
-1. Install poetry:
+For our purposes, you should have a Python installation with version 3.8 or greater. Refer to our [documentation on pyenv](https://inquirer.atlassian.net/wiki/spaces/KB/pages/1763704858/How+to+manage+Python+installations+on+your+machine+with+Pyenv) for instructions on downloading an appropriate installation.
 
-```shell
-    curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-```
+## Installation
 
-2. Add poetry to path:
+See [Poetry's documentation](https://python-poetry.org/docs/#installation) for detailed installation instructions.
 
-```shell
-    source $HOME/.poetry/env
-```
+After installing Poetry, you may need to restart your terminal window so that it can locate the `poetry` command
 
-3. Check that you have a Python version compatible with requirements for this project. See `python` under `[tool.poetry.dependencies]` in `pyproject.toml` for current dependencies. If you are not currently using Pyenv to manange Python installation, refer to our [Documentation](https://inquirer.atlassian.net/wiki/spaces/KB/pages/1763704858/How+to+manage+Python+installations+on+your+machine+with+Pyenv). Follow instructions there to install an appropriate version.
+Finally, change one specific configuration setting for Poetry by running `poetry config virtualenvs.in-project true` so that when Poetry creates a virtual environment for you, it will do so inside your project's root directory. This will allow for the virtual environment to be easily discovered by development tools such as VSCode.
 
-```shell
-    pyenv versions
-```
+## Usage
 
-4. Check futher that you have Python versions installed for all that are tested by tox. See `envlist` under `[tox]` in `tox.ini` for current dependencies.
+Below is a list of common commands when using Poetry. See [Poetry's documentation](https://python-poetry.org/docs/cli/) for a complete list of commands.
 
-```shell
-    pyenv install <version>
-```
+### Install a project 
 
-5. Create poetry virtualenv:
+To install a project and its dependencies according to the configuration specified in the `pyproject.toml` file, run `poetry install`. If you're familiar with `pip`, then this is similar to running `pip install .`.
 
-```shell
-    poetry shell
-```
+### Add a dependency
 
-6. If you are using VSCode: the `.vscode` directory in this repo contains a setting that will tell VSCode to look at poetry to find Python interpreters. You may need to restart VSCode for this setting to take effect. Once set, you can select the poetry environment from the list of interpreters by bringing up the Command Palette (Cmd+Shift+P) and searching for "Python: Select Interpreter".
+To add and install a required packages to your `pyproject.toml`, run `poetry install [--dev] <PACKAGE_NAME>` (specify the `--dev` flag to add the package as a development dependency). This is similar to running `pip install <PACKAGE_NAME>`.
 
-### Development
+### Bump the project's version
 
-#### Installation
+To increment the version of the project and write the new version back to `pyproject.toml`, run `poetry version <major|minor|patch>`
 
-Install `inq-data-resources` and its dependencies by running:
+### Manage environments
 
-```shell
-poetry install
-```
+Poetry will always work isolated from your global Python installation. To achieve this, it will first check if it’s currently running inside a virtual environment. If it is, it will use it directly without creating a new one. But if it’s not, it will use one that it has already created or create a brand new one for you.
 
-#### Managing Dependencies
+By default, Poetry will try to use the currently activated Python version to create the virtual environment for the current project.
 
-When editing the dependencies for `inq-data-resources`, you sync the dependencies from `pyproject.toml` to `poetry.lock` by running:
-
-```shell
-poetry lock
-```
+After installing your project, you can run any command from within your project's virtual environment by running `poetry run <COMMAND>`. Alternately, you can spawn a shell session within the virtual environment by running `poetry shell`.
