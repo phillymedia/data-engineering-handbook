@@ -4,7 +4,7 @@
 _Objective_: Design, implement, maintain, and enhance a modern data platform that allows data consumers at the Inquirer to reliably self-serve their data needs.
 
 #### O1KR1 
-_Key Result_: At least one new end-to-end use case is operationalized on the data platform, including data capture, modeling, transformation, orchestration, and discovery. [1/5]
+_Key Result_: At least one new end-to-end use case is operationalized on the data platform, including data capture, modeling, transformation, orchestration, and discovery. [2/5]
 
 #### O1KR2 
 All 3 codebases and 4 cloud infrastructure services that currently comprise the data platform are tracked via source control, and are deployed via CI/CD. [12/14]
@@ -24,8 +24,8 @@ _Key Result_: each of the following business categories has at least one data se
 _Objective_: Ensure data platform adoption, utilization, and socialization by providing data engineers and analysts hands-on experience with the platform technologies.
 
 #### O3KR1
-_Key Result_: Each member of the team performs data engineering work that contributes to a Q2 Product Showcase presentation [1/3]
+_Key Result_: Each member of the team performs data engineering work that contributes to a Q2 Product Showcase presentation [2/3]
 
 #### O3KR2
 _Key Result_: 
-Key Result 2: At least 4 members of the Analytics team have submitted and merged at least 2 pull requests each for changes to the Inquirer's dbt codebase. [1/8]
+Key Result 2: At least 4 members of the Analytics team have submitted and merged at least 2 pull requests each for changes to the Inquirer's dbt codebase. [5/8]
