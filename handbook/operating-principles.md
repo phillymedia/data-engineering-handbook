@@ -4,7 +4,8 @@
 There are three **Data Engineering Team Operating Principles**: 
 
 ### 1. Build A Better Team
-- [CREDIT](handbook/values/#credit)
+
+- [CREDIT](values#credit)
 - We treat everyone with respect
 - We assume best intent towards the Inquirer's success
 - We are honest with ourselves and with each other
@@ -14,6 +15,7 @@ There are three **Data Engineering Team Operating Principles**:
 - We tackle mistakes as a team and seek to get better
 
 ### 2. Deliver Results That Matter
+
 - We operate with a [growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means), continually raising the standard
 - We don’t confuse activity with progress
 - We know how our work aligns with strategic initiatives and how it will help our Business Partners deliver impactful results
@@ -21,6 +23,7 @@ There are three **Data Engineering Team Operating Principles**:
 - We proactively engage with our Business Partners to ensure regular progress for important initiatives
 
 ###  3. Create Trusted & Scalable Data Solutions
+
 - We all have a responsibility for Data Security and Data Quality
 - We lead with well-tested and accurate Data Solutions
 - We operate and maintain the production solutions we create
@@ -30,7 +33,8 @@ There are three **Data Engineering Team Operating Principles**:
 - Automated tests are the best tests and we implement tests at every step of the data delivery process
 
 
-### Additional beliefs held by the Data Engineering Team include:
+## Additional beliefs held by the Data Engineering Team include:
+
 * Everything can and should be defined in code and version controlled
 * Data implementations should integrate best practices from DevOps into their workflow
 * Partner with each Business function while having a high-quality, maintainable code base
