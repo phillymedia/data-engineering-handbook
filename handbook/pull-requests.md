@@ -12,8 +12,9 @@ You may also add a `DO NOT MERGE` [label](https://docs.github.com/en/issues/usin
 
 In order for JIRA to detect that a ticket has a linked PR, you must do one of the following:
 
-* Give your development branch a name that begins with the JIRA ticket identifier (e.g. `DI-123_add-columns`).
-* Include the JIRA ticket identifier in the title of the PR.
+* [Preferred] Give your development branch a name that begins with the JIRA issue key (e.g. `DI-123_add-columns`).
+* Include the JIRA issue key in a commit message.
+* Include the JIRA issue key in the title of the PR.
 
 #### Soliciting Reviews and Approvals for Pull Requests
 
