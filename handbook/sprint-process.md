@@ -40,6 +40,7 @@ This standup is broadcast at 9:00am ET, but you're only expected to respond to i
 - Agenda: 
   - Agile coaches provide an estimated sprint capacity for the upcoming sprint. 
   - Data leads populate the sprint with tickets from the top of the backlog until the total story points matches the sprint capacity. 
+  - Data leads will send out a curated Confluence page for the sprint ([example](https://inquirer.atlassian.net/wiki/spaces/DATAINSIGHTS/pages/2129100816/Data+Insights+Sprint+15)) no later than 12pm on Wednesday to the rest of the team for review of tickets in upcoming sprint. Issues raised on Confluence or Jira regarding particular tickets or overall work should prompt followup conversations as soon as possible
 
 
 #### Sprint Retro and Demos
