@@ -18,7 +18,7 @@ In order for JIRA to detect that a ticket has a linked PR, you must use one of t
 
 #### Soliciting Reviews and Approvals for Pull Requests
 
-At least one approving peer review is required in order for a PR to be merged. When submitting a PR, add the Data Engineering team (`phillymedia/data-engineering`), the Analytics team (`phillymedia/analytics`), or both teams as a reviewers. When choosing PR reviewers, consider the expertise of each team and the sort of feedback you are trying to solicit. If you are seeking a particular person's subject matter expertise, then you may add them individually as a reviewer.
+At least one approving peer review is required in order for a PR to be merged. When submitting a PR, add the Data Engineering team (`phillymedia/data-engineering`), the Analytics team (`phillymedia/analytics`), or both teams as a reviewers. When choosing PR reviewers, consider the expertise of each team and the sort of feedback you are trying to solicit. If you are seeking a particular person's subject matter expertise, then you may add them individually as a reviewer. Note that some repositories have a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file which will automatically assign a reviewer depending on the files changed in the PR.
 
 #### Draft Pull Requests
 
