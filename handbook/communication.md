@@ -1,8 +1,8 @@
 ## Communication
 
-Currently, we're an all-remote team, so it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
+Currently, we're a hybrid team, so it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
-To accomplish this, we use <b>[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point</b> and stay as open and transparent as we can by communicating through Jira tickets, [pull requests](#everything-starts-with-a-pull-request), and [Slack channels](#slack-channels).
+To accomplish this, we use <b>[asynchronous communication](values.md#bias-towards-asynchronous-communication) as a starting point</b> and stay as open and transparent as we can by communicating through Jira tickets, [pull requests](#everything-starts-with-a-pull-request), and [Slack channels](#slack-channels).
 
 We also place an emphasis on ensuring that conclusions of offline conversations are written down.
 When we go **back and forth three times,** we jump on a [synchronous video call](#video-calls).
@@ -18,14 +18,13 @@ We communicate respectfully and professionally at all times.
 1. **Be a Role Model of our [Values](values.md).**
 2. **Feedback is Essential.**  We encourage team members to give feedback and receive feedback in a considerate way.
 3. **Do not underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a video call.
-4. **Always Adhere to our Anti-Harassment Policy and Inquirer Code of Conduct and Ethics.** [TKTK find out where these are] Everyone should be comfortable in their work environment.
-5. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things.
+4. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things.
 
-Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/company/culture/all-remote/effective-communication/).
+Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](https://about.gitlab.com/company/culture/all-remote/effective-communication/).
 
 ## Everyone is a moderator
 
-If you see something that concerns you in Slack, Jira tickets, Pull Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
+If you see something that concerns you in Slack, Jira tickets, Pull Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager to discuss.
 
 ## Everything starts with a Pull Request
 
@@ -33,27 +32,26 @@ It's best practice to start a discussion where possible with a [Pull Request (PR
 
 1. Always **open** an PR for things you are suggesting and/or proposing. Whether something is not working right or we are iterating on a new internal process, it is worth opening a pull request with the minimal viable change instead of opening a ticket encouraging open feedback on the problem without proposing any specific change directly. Remember, a PR also invites discussion, but it's specific to the proposed change which facilitates focused decision.
 2. Never ask someone to create a ticket when they can default to the pull request.
-3. Starting with a Pull Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for everyone to contribute to our platform. This is true, not just for updating the handbook but for updating all things.
+3. Starting with a Pull Request is part of [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for everyone to contribute to our platform. This is true, not just for updating the handbook but for updating all things.
 4. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](values.md#minimal-viable-change-mvc) proposed in the PR.
 5. Be proactive and consistent with communication. It's important to keep communication flowing to keep everyone up to date. PRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that PRs are closed in a timely manner through approving or rejecting the open requests.
-6. Have a **bias for action** and [do not aim for consensus](/handbook/leadership/#making-decisions). Every PR is a [proposal](values.md#make-a-proposal), if an PRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
-7. **Cross link** tickets or other PRs with related conversations. E.g. if there’s a Jira ticket that caused you to create a GitHub.com PR, make sure to document the PR link in the ticket and vice versa. And when approving or rejecting the PR, include reason or response from Zendesk. Put the link at the top of each PR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
+6. Have a [**bias for action**](values.md#bias-for-action) and do not aim for consensus. Every PR is a [proposal](values.md#make-a-proposal), if an PRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
+7. **Cross link** tickets or other PRs with related conversations. E.g. if there’s a Jira ticket that caused you to create a GitHub PR, make sure to document the PR link in the ticket and vice versa. And when approving or rejecting the PR. Put the link at the top of each PR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
    1. When providing links to specific lines of code relevant to the PR, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet).
 8. If submitting a change for a feature, **update the description with the final conclusions** (Why an PR was rejected or why it was approved). This makes it much easier to see the current state of an tickets for everyone involved in the implementation and prevents confusion and discussion later on.
 9. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate tickets/PRs and link them. An PR can start off as only a problem description and TODO comments. If you're new to GitHub and are writing documentation or instructions, submit your first pull request for at most 20 lines.
 10. Do not leave PRs open for a long time. PRs should be **actionable** -- stakeholders should have a clear understanding of what changed and what they are ultimately approving or rejecting.
 11. Make a conscious effort to **prioritize** your work. The priority of items depends on multiple factors: Is someone waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.?
 12. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a data engineer and you propose a solution, ping a fellow data engineer to review your work. If they suggest changes, you get the opportunity to improve your solution and propose an alternative PR. This promotes collaboration and advances everyone's skills.
-13. Respond to comments within a **threaded discussion**. 
+13. Respond to comments within a **threaded discussion**.
 14. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently.
-15. If you have received any feedback or questions on your PR, try to acknowledge comments as that's how we ensure we create an environment of belonging for all team members. Merging your PR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals/) (DRI) who does not have to make a fast decision, you can choose not to change your PR, but you should acknowledge the comments or feedback, consider if they warrant a change to your PR, and [say why, not just what](values.md#say-why-not-just-what).
-   If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
-   When fast decisions are needed, [we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input](/handbook/leadership/#making-decisions). The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](values.md#disagree-commit-and-disagree).
-14. For the Inquirer data platform, the pull request guidelines are in the TKTK [[Contribution
-   guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-guidelines)] and code review guidelines for reviewers and maintainers are described in our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
-15. Even when something is not done, share it internally so people can comment early and prevent rework.
-16. Create a [<b>Draft</b> pull request](pull-requests.md#draft-pull-requests) to prevent an accidental early merge. Only use Draft PRs when merging it would **make things worse** (this should rarely be the case when contributing to the handbook, for example). Most pull requests that are in progress don't make things worse. In this case, do not use Draft; if someone merges it earlier than you expected just create a new pull request for additional items. Never ask someone to do a final review or merge something that still has Draft status.
-17. If a project requires multiple approvals to accept your PR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
+15. If you have received any feedback or questions on your PR, try to acknowledge comments as that's how we ensure we create an environment of belonging for all team members. Merging your PR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the directly-responsible individual who does not have to make a fast decision, you can choose not to change your PR, but you should acknowledge the comments or feedback, consider if they warrant a change to your PR, and [say why, not just what](values.md#say-why-not-just-what).
+   If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that if you force an individual to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can demotivate an individual, and cause people to defer rather than working with a bias for action. This is something we want to avoid.
+   When fast decisions are needed, we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input. The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](values.md#disagree-commit-and-disagree).
+16. Guidelines for pull requests and reviews can be found in the [pull requests](pull-requests.md) section.
+17. Even when something is not done, share it internally so people can comment early and prevent rework.
+18. Create a [<b>Draft</b> pull request](pull-requests.md#draft-pull-requests) to prevent an accidental early merge. Only use Draft PRs when merging it would **make things worse** (this should rarely be the case when contributing to the handbook, for example). Most pull requests that are in progress don't make things worse. In this case, do not use Draft; if someone merges it earlier than you expected just create a new pull request for additional items. Never ask someone to do a final review or merge something that still has Draft status.
+
 
 ## Tickets
 
@@ -62,69 +60,55 @@ Tickets are useful when there isn't a specific code change that is being propose
 1. When **closing** a ticket leave a comment explaining why you are closing the ticket and what the MVC outcome was of the discussion (if it was implemented or not).
 2. We keep our **promises** and do not make external promises without internal agreement.
 3. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. Tickets can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that tickets are closed in a timely manner. One way of doing this is having the current assignee set a due date for when they will provide another update. This can be days or weeks ahead depending on the situation, prioritization, and available capacity that we may have.
-4. **Cross link** tickets or PRs with related conversations. When done, add a comment to relevant tickets (and close them if you are responsible for reporting back, or reassign if you are not). This prevents internal confusion and us failing to report back to the reporters.
+4. **Cross link** tickets or [PRs](pull-requests.md#linking-prs-to-jira) with related conversations. When done, add a comment to relevant tickets (and close them if you are responsible for reporting back, or reassign if you are not). This prevents internal confusion and us failing to report back to the reporters.
 5. When cross-linking tickets or PRs, include a preview of the content you are linking, to facilitate low-context communication:
    1. Good: `this would cause performance issue similar to #123456`. The reader has full information on first read and can refer to the link for more.
    2. Avoid: `this would cause issue similar to #123456`. The reader needs to click the link and find the relevant information among other discussion threads, before switching back to the original discussion.
 6. When providing links to specific lines of code relevant to the ticket, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet).
 7. Assign an ticket to yourself as soon as you start to work on it, but not before that time. If you complete part of an ticket and need someone else to take the next step, **re-assign** the ticket to that person.
 8. Ensure the ticket **title** states what the desired outcome should be. For instance, for bugs make sure the ticket states the desired result, not the current behavior. The desired outcome should also be described in greater detail in the Definition of Done ("DoD") field.
-9.  **Regularly update** the ticket's description and DoD the latest information and its current status, especially when important decisions were made during the discussion. The ticket's DoD should be the **single source of truth**.
+9. **Regularly update** the ticket's description and DoD the latest information and its current status, especially when important decisions were made during the discussion. The ticket's DoD should be the **single source of truth**.
 10. If you want someone to review a ticket, do not assign them to it. Instead, @-mention them in an ticket comment. Being assigned to an ticket is a signal that the assignee should or intends to work on it. So you should not assign someone to an ticket and mis-represent this with a false signal.
-11. If you'd like to inform someone about an ticket, or assign a task to them - do so via an ticket comment not just adding them to the description.
+11. If you'd like to inform someone about an ticket, or assign a task to them - do so via a ticket comment not just adding them to the description.
 12. Do not close an ticket until it is **done**, that is, when the Definition of Done is satisfied. It's okay to explicitly ask if everyone is on board and in agreement on how to move forward, whether to iterate, close the open ticket, or create a subsequent PR to implement a MVC.
 13. Once a feature is **done**, update the ticket description to add a link to the corresponding documentation.
-14. Write tickets so that they exclude private information. This way, the tickets can be public. If the ticket must contain non-public information, you may consider using a Google Doc for items that require a stricter level of confidentiality.
+14. Write tickets so that they exclude private information, including API keys and login credentials. This way, the tickets can be public. If the ticket must contain non-public information, you may consider using a Google Doc for items that require a stricter level of confidentiality.
 
 ## Asynchronous communication
 
-In an [all-remote setting](/company/culture/all-remote/terminology/), mastering asynchronous workflows is vital to avoiding [dysfunction](values.md#five-dysfunctions) and enjoying outsized efficiencies and lifestyle flexibility. Asynchronous communication is the art of communicating and moving projects forward _without_ the need for additional stakeholders to be available at the same time your communique is sent.
+In an hybrid work setting, mastering asynchronous workflows is vital to avoiding [dysfunction](values.md#five-dysfunctions) and enjoying outsized efficiencies and lifestyle flexibility. Asynchronous communication is the art of communicating and moving projects forward _without_ the need for additional stakeholders to be available at the same time your communique is sent.
 
 ## Top tips and best practices
 
-1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
 1. Use **asynchronous communication** when possible: pull requests (preferred) or Jira tickets. Announcements happen on the appropriate [Slack channels](#slack-channels) and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
-1. Discussion in tickets or Pull Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an ticket or pull request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
-2. If you choose to email instead of chat it is OK to send an email that contains only a short message, similar as you would use in chat.
-3. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
-4. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
-5. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use tickets or public chat channels instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
-6. If you send a handbook link to someone as an answer to a question, consider adding some context, especially if they are new to the Inquirer. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member. 
-7. If the answer to a question isn't documented, please immediately make a pull request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A pull request is the best way to say thanks for help.
-8. If you mention something (a pull request, ticket, commit, webpage, comment, etc.) please include a link to it.
-9. All team assets should be **shareable and editable** by default.
-10. When someone asks something, give back a deadline or that you did it. Answers like: 'will do', 'OK', 'it is on my todo list' are not helpful. If it is small it's better to spend 2 minutes and do the tasks so the other person can mentally forget about it. If it is large you need to figure out when you'll do it, by returning that information the other person might decide to solve it in another way if it takes too long.
-11. It is OK to bring a ticket to someone's attention with a CC ("cc @user"), but CCs alone are not enough if specific action is needed from someone. The mentioned user may read the ticket and take no further action. If you need something, please explicitly communicate your need along with @ mentioning who you need it from.
-12. Avoid creating private groups for internal discussions:
-   1. It's disturbing (all users in the group get notified for each message).
-   2. It's not searchable.
-   3. It's not shareable: there is no way to add people in the group (and this often leads to multiple groups creation).
-   4. They don't have a subject, so everyone has to remember the topic of each private group based on the participants, or open the group again to read the content.
-   5. History is lost when leaving the group
-13. It is perfectly fine to create a channel, even for a single meeting.
-14. Use [low-context communications](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) by being explicit in your communications. We are a remote-only company, located all over the world. Provide as much context as possible to avoid confusion. Relatedly, we use [ubiquitous language](#ubiquitous-language) for communication efficiency.
-15. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
-16. Consult our [tips for better writing](/company/culture/all-remote/effective-communication/#tips-for-better-writing).
-
-
-### Smart note-taking in meetings
-
-Note taking helps us to work with people asynchronously as team members can add their thoughts to an agenda in advance of a meeting and understand what was discussed if they cannot attend. It also offers a record of what was discussed that can later be referenced. While it may not be feasible to capture all words said in a meeting, focus on noting speakers and their key points. Extensive note-taking should not happen at the expense of correct note-taking. At the end of the meeting, try to clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
-
-While a designated person may be the primary person responsible for note-taking in a specific meeting, all team members should feel empowered to chip in. Note-taking can be a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members can contribute by helping with notes, correcting anything that is incorrect (names, abbreviations, etc.), and adding key details that were important but missed.
-
-### Asking "is this known"
-
-If something is behaving strangely on the data platform, it might be a bug. It could also mean that something was changed intentionally.
-
-[TKTK add proces here]
-
+2. Discussion in tickets or Pull Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an ticket or pull request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](#slack) for more.
+3. If you choose to email instead of chat it is OK to send an email that contains only a short message, similar as you would use in chat.
+4. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
+5. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
+6. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use tickets or public chat channels instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
+7. If you send a handbook link to someone as an answer to a question, consider adding some context, especially if they are new to the Inquirer. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member.
+8. If the answer to a question isn't documented, please immediately make a pull request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A pull request is the best way to say thanks for help.
+9. If you mention something (a pull request, ticket, commit, webpage, comment, etc.) please include a link to it.
+10. All team assets should be **shareable and editable by all members of the Inquirer organization** by default.
+11. When someone asks something, give back a deadline or that you did it. Answers like: 'will do', 'OK', 'it is on my todo list' are not helpful. If it is small it's better to spend 2 minutes and do the tasks so the other person can mentally forget about it. If it is large you need to figure out when you'll do it, by returning that information the other person might decide to solve it in another way if it takes too long.
+12. It is OK to bring a ticket to someone's attention with a CC ("cc @user"), but CCs alone are not enough if specific action is needed from someone. The mentioned user may read the ticket and take no further action. If you need something, please explicitly communicate your need along with @ mentioning who you need it from.
+13. Avoid creating private groups for internal discussions:
+  14. It's disturbing (all users in the group get notified for each message).
+  15. It's not searchable.
+  16. It's not shareable: there is no way to add people in the group (and this often leads to multiple groups creation).
+  17. They don't have a subject, so everyone has to remember the topic of each private group based on the participants, or open the group again to read the content.
+  18. History is lost when leaving the group
+19. It is perfectly fine to create a channel, even for a single meeting.
+20. Use [low-context communications](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) by being explicit in your communications. We are a hybrid company, located all over the world. Provide as much context as possible to avoid confusion. 
+21. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
+22. Consult our [tips for better writing](https://about.gitlab.com/company/culture/all-remote/effective-communication/#tips-for-better-writing).
+23. If something is behaving strangely on the data platform, it might be a bug. It could also mean that something was changed intentionally. In any instance, team members are encouraged to highlight potential unexpected behavior.
 
 ### Multimodal communication
 
-Employ multimodal communication to broadcast important decisions. To reach our distributed organization, announce important decisions in the company announcements Slack channel, email the appropriate team email lists, Slack the appropriate channels, and target 1:1s or other important meetings on the same day, with the same information.
+Employ multimodal communication to broadcast important decisions. To reach our distributed organization, Slack the appropriate channels and target 1:1s or other important meetings on the same day, with the same information.
 
-When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, ticket, or Google Doc. The email or Slack message should not be the source of truth.
+When doing this, create and link to a single source of truth: ideally the [handbook](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first), otherwise an epic, ticket, or Google Doc. The email or Slack message should not be the source of truth.
 
 When referring to email that recipients should have received, reference the sender and subject of the email so it's easy to find. For example, "You should have received an email from Jane Smith with the subject 'Training Seminar Details'".
 
@@ -132,10 +116,9 @@ When referring to email that recipients should have received, reference the send
 
 In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication on the DE team:
 
-- Uses [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](#writing-style-guidelines) through Jira tickets, GitHub pull requests, and [Slack channels](#slack-channels) (not DMs).
-- Places an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot).
-- Produces video when necessary.
-
+- Uses [asynchronous](values.md#bias-towards-asynchronous-communication) communication as the starting point and stays as open and transparent as we can by [communicating via text](#writing-style-guidelines) through Jira tickets, GitHub pull requests, and [Slack channels](#slack-channels) (not DMs).
+- Places an emphasis on ensuring that conclusions of offline conversations are written down ensuring a single source of truth.
+- Produces video and other persistent assets when necessary.
 
 **Skills and behavior of applying effective communication as a Team Member**:
 
@@ -158,13 +141,11 @@ In an all-remote organization effective communication is key to exchanging knowl
 
 ## Numbering is for reference, not as a signal
 
-When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/), keep items numbered so we can refer to Item 3 or 4a.
-The number is not a signal of the importance or rank of the subject unless explicitly stated to be such.
-It is just for ease of reference.
+When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/), keep items numbered so we can refer to Item 3 or 4a. The number is not a signal of the importance or rank of the subject unless explicitly stated to be such. It is just for ease of reference.
 
 ## Cross link
 
-Linking should not be in one direction. We should go beyond deep-linking to create a richer web of links that can surface content and ensure people consider all pages when making updates. When linking one page to another, try to link back as well. Instead of only linking from Page A to Page B, both link Page A to Page B and link Page B back to Page A. 
+Linking should not be in one direction. We should go beyond deep-linking to create a richer web of links that can surface content and ensure people consider all pages when making updates. When linking one page to another, try to link back as well. Instead of only linking from Page A to Page B, both link Page A to Page B and link Page B back to Page A.
 
 ## Acknowledgement Receipts
 
@@ -178,19 +159,19 @@ In informal acknowledgement scenarios, such as on Slack or on ticket comments, i
 
 ## Presentations
 
-1. All presentations are made in Google Slides using our templates [TKTK link to templates].
+1. All presentations are made in Google Slides.
 2. Please allow anyone at the Inquirer to edit the presentation (preferred) or at least comment on the presentation.
 3. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
 4. During introductions, make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
 5. At the end of the presentation, when you go to Q&A, stop presenting in Zoom. This way the other people can see the person who is speaking much better.
-6. All presentations on the DE team should be based on screenshots of the handbook, issues, and pull requests. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
-7. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Pull Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or [PR rate](/handbook/engineering/development/performance-indicators/#development-department-member-mr-rate). Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
+6. All presentations on the DE team should be based on screenshots of the handbook, issues, and pull requests. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a single source of truth for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
+7. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Pull Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or PR rate. Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
 8. When your presentation includes graphs or other data, make sure your graphs have clear titles and dimensions. Make sure your data has significant figures and labels. For example, use 'January: 1.95M projects' instead of 'January: 1.95M'. Keep in mind that your audience may not have the full context, especially if they are reading the presentation asynchronously.
-9.  When giving a presentation, your commentary should not be a regurgitation of the words in the slide. The audience can read the slide for themselves; your commentary should focus on the most important takeaways.
+9. When giving a presentation, your commentary should not be a regurgitation of the words in the slide. The audience can read the slide for themselves; your commentary should focus on the most important takeaways.
 
 ### Video and presentation tips with Lorraine Lee
 
-On 2022-01-20, GitLab's L&D team hosted [Lorraine Lee](https://linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace. 
+On 2022-01-20, GitLab's L&D team hosted [Lorraine Lee](https://linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace.
 
 Key points addressed in the training include:
 
@@ -199,25 +180,22 @@ Key points addressed in the training include:
 - **Stay connected with your audience** by smiling, making eye contact, and framing yourself in video
 - **Insert energy** by standing up, projecting, and using hand gestures
 
-[You can find a recording of the traing here](https://www.youtube.com/embed/A5KtmrgVqr8)
-
+[You can find a recording of the training here](https://www.youtube.com/embed/A5KtmrgVqr8)
 
 ## Say thanks
 
 As we continue to build on [inclusion](values.md#diversity-inclusion), recognition is a key and transformative tactic. Thanking team members provides an opportunity for them to be recognized for their contributions, influences engagement behavior, and acknowledges to team members their work is seen. By saying thanks, you are contributing to and supporting the value of [DIB](values.md#diversity-inclusion).
 
-1. Thank people that did a great job in our `#data-insights` Slack channel. Almost everyone in the company is active in this channel so please don't be shy.
+1. Thank people that did a great job in our `#data-insights-group` Slack channel.
 2. Consider other channels where recognition can be acknowledged: team meetings, issues, company calls, 1-1 meetings, etc.
 3. If someone is a team member just `@`-mention them, if multiple people were working on something try `@`-mentioning each person.
 4. When announcing a completed project, list the key contributors.
 5. Please be as timely as possible with your recognition.
 6. If possible please include a link with your thanks that points to the subject matter that you are giving thanks for, for example a link to a pull request.
 7. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
-8. Please do not celebrate Inquirer contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While DE team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
+8. Please do not celebrate Inquirer contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy work/life harmony for all team members. While DE team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
 9. Do not thank the CEO or other executives for something that the company paid for, thank the Inquirer instead.
-10. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).
-11. Understand that everyone doesn't need or want recognition. Once this is advised, please respect when they don't.
-
+10. Understand that everyone doesn't need or want recognition. Once this is advised, please respect when they don't.
 
 ## Communicate directly
 
@@ -265,19 +243,6 @@ There is a delicate balance between being confident enough to be assertive of pe
 - Avoid arrogance.
 - When opinions are in question give yourself permission to disclose yours.
 
-## Inquirer Sits
-
-- Inquirer Sits is a short time for Inquirer team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-- The call takes place Monday through Friday 12:00pm-12:25pm ET. The first 20 minutes are dedicated to meditation, and the final five minutes are dedicated to discussion. 
-- You're welcome to join the call on whichever days work for you.
-- No previous experience is necessary, nothing extra is needed other than a comfortable seat and 25 minutes.
-- If you're interested in joining Inquirer Sits, you can ask for a calendar invite in the #inquirer-sits Slack channel.
-
-
-## Sprint retrospectives and kickoffs
-
-[TKTK]
-
 ## Scheduling meetings
 
 1. If you want to ask Inquirer team members if they are available for an event please send a calendar invite with Google Calendar using your Google Inquirer account to their Google Inquirer account. When you add a Inquirer team member as a “Guest” in Google Calendar, you can click the See Guest Availability button to check availability and find a time on their calendar. These calendar invites will automatically show up on all parties calendars even when the email is not opened. It is an easier way to ensure everyone has visibility to the meeting and member’s status. Please respond quickly to invites so people can make necessary plans.
@@ -285,7 +250,6 @@ There is a delicate balance between being confident enough to be assertive of pe
    - If a Google Doc has not already been created for the meeting, you can create one by clicking on [Take meeting notes](https://workspaceupdates.googleblog.com/2021/10/create-meeting-notes-in-google-calendar.html) in the Google Calendar event.
       - If you create a meeting notes document using this flow, move it to the [Meeting Notes folder](https://drive.google.com/drive/folders/1A8uu317RQOyJ9m77pJm4CEsC9ROPl8BO?usp=sharing) on the [Data & Insights shared drive](https://drive.google.com/drive/u/0/folders/0AIZYO4MJ2UV7Uk9PVA?ths=true)
       - When sharing links to meeting notes on Slack, the googledrive Slack app will prompt you if some people in the channel do not have access to the file. Select "Allow everyone to comment and edit" from the dropdown menu so that everyone in the channel can contribute.
-   - A suggested format for 1:1 agendas can be found on the [1:1 leadership page](/handbook/leadership/1-1/).
 3. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
 4. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
 5. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
@@ -297,12 +261,12 @@ There is a delicate balance between being confident enough to be assertive of pe
    - Stretch your legs
    - Grab a snack
 8. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
-9.  When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
+9. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
 
 Key practices to consider during any meeting are listed below.
 
 1. Video Calls - If this is your first time meeting a stakeholder, vendor, employee, or other partner, turn on your camera when you join Zoom. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
-2. "No agenda, no attenda" - Always have an [agenda prepped and ready to go](/company/culture/all-remote/live-doc-meetings/), with the exception of purely informal meetings (e.g. social events, virtual happy hours). Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
+2. "No agenda, no attenda" - Always have an agenda prepped and ready to go, with the exception of purely informal meetings (e.g. social events, virtual happy hours). Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
 3. 70/30 Rule - Ask open ended questions that leave the audience talking 70% of the time, while you are talking 30% of the time. Please note that this varies based on the type of meeting that you are conducting. Be conscious of what questions need to be asked and to capture those items.
 4. Take Notes - Effective note-taking is a valuable skill that will help you retain and recall any important details. Be the person who remembers all the details of your audience's needs.
 5. Adapt to Audience Tone - Before going into the business portion of your meeting, evaluate first the tone of the audience. Adapt your tone accordingly in order to appeal to various types of personalities.
@@ -312,34 +276,15 @@ Key practices to consider during any meeting are listed below.
 
 ### Focus Fridays
 
-The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
+The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work which also aligns with our push to operate asynchronously. Other benefits include reducing potential burnout, creating availability for team-wide focused work, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
 
-- Cancel or move any standing meetings occurring on Fridays.
+- Cancel or move any standing meetings occurring on Fridays. The two exceptions to this are the Daily Standup and the Analytics Sync.
 - Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as much as possible and defer to async work where we can.
 - Consider blocking off your calendar as "busy" on Fridays to block your work time.
 - Consider looking into apps like [Reclaim](https://app.reclaim.ai) that can help defend your calendar
 - Consider using Fridays to dedicate time to your learning and development.
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule. Managers are encouraged to provide coaching and guidance.
-
-### Meeting Cleanup Day
-
-On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is a day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](values.md#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
-
-- Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
-- Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
-- Ask other team members to reexamine how existing meetings are managed
-
-When cancelling a meeting, a team member can copy and paste this message to send to attendees:
-_I evaluated the need for this meeting as part of [Meeting Cleanup Day](#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns._
-
-When changing the cadence of a meeting, a team member can copy and paste this message to send to attendees:
-
-_I reassessed this meeting as part of [Meeting Cleanup Day](#meeting-cleanup-day). I have determined that the meeting no longer needs to happen as frequently. Please look for an updated meeting invite and get in touch if you have any concerns._
-
-If you are a team member who intends to decline a meeting, the [asynchronous communication](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
-
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year.
 
 ### Common meeting problems
 
@@ -349,7 +294,7 @@ Some of the most common meetings problems are outlined below:
 
 | Problem                                                                             | Solution                                                                                                 |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Present instead of Q&A                                                              | Pre-record presentations on YouTube, so meetings are only Q&A                                            |
+| Present instead of Q&A                                                              | Pre-record presentations, so meetings are only Q&A                                            |
 | Meetings set up for or default to brainstorming                                     | People should default to making thoughtful proposals async and building upon them in meetings, if needed |
 | No agenda with edit rights for everyone                                             | Ensure that every meeting has an agenda and is available for everyone to edit                            |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting                             |
@@ -362,7 +307,7 @@ Make a pre-recorded video presentation using mmhmm (TKTK find training materials
 
 **Pre-recorded presentations enable the following:**
 
-- Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
+- Pre-recording the presentation allows the time to be used for back and forth Q&A, which enables meeting attendees to have their questions answered on the topic without running out of time.
 - Reinforces the Data Engineering team's [Bias Towards Asynchronous Communication](values.md#bias-towards-asynchronous-communication) because it helps organization members in different timezones to consume the presentation material async versus spending time in a meeting.
 - Strengthens [self-service and self-learning](values.md#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
 - Standardizes the approach to meetings across the organization.
@@ -373,7 +318,7 @@ Make a pre-recorded video presentation using mmhmm (TKTK find training materials
 
 There are times when presenting during a meeting is needed. This may occur when adding more context to a specific topic on slides. If this is the case, consider the following:
 
-- A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficently and enables team members to watch async.
+- A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficiently and enables team members to watch async.
 - Include an async Q&A doc for team members who did not attend the presentation.
 - Ensure the async Q&A doc is linked in the YouTube description.
 
@@ -381,9 +326,8 @@ There are times when presenting during a meeting is needed. This may occur when 
 
 Indicate your availability by updating your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
 
-1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar. 
+1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar.
 2. Set your working hours in your Google Calendar settings.
-
 
 ## Video calls
 
@@ -397,24 +341,22 @@ Indicate your availability by updating your own calendar using Google's ["out of
    - For a newcomer to the conversation, it's easier and more efficient to parse a ticket, than read a video transcript or watch it.
    - Conversations in tickets are easily searchable. Video calls are not.
 3. Try to have your video on at all times because it's much more engaging for participants.
-   - Do not worry if you [can't pay attention at the meeting](#paying-attention-in-meetings) because you're doing something else, you are the manager of your attention. The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.
+   - Do not worry if you can't pay attention at the meeting because you're doing something else, you are the [manager of your attention](#you-are-the-manager-of-your-attention). The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.
    - During internal calls, it's okay to eat on video if you're hungry or the call is during your lunch time (please turn your mic off).
    - You should ensure that you are properly dressed for all video calls. Properly dressed means that you are wearing clothing that covers the top and bottom parts of your body. We do not have a strict dress code policy, but want to make sure that all participants on video calls feel comfortable. If you cannot be properly dressed for the entirety of the call, you should not join, but watch a recording at a later time.
-   - Having pets, children, significant others, friends, and family visible during video chats is encouraged. 
+   - Having pets, children, significant others, friends, and family visible during video chats is encouraged.
    - Do not feel forced to have your video on, use your best judgement.
 4. We prefer Zoom.
 5. [Hybrid calls are annoying](#hybrid-calls-are-annoying).
 6. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
 7. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
-8.  It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable. This is a situation where we have to do something counter intuitive to make all-remote meetings work. On the DE team, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue. Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
-11. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
-12. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call.
-13. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question, e.g. 'Jay about credit-cards'.
-14. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
-15. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/).
-16. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
-17. Speak up when you notice something is not working. If you notice someone's microphone, web cam or latency is causing issues for them it is good to speak up. On a video call it can be harder for the speaker to notice that they aren't being understood compared to a face to face conversation. As such you will be doing them a favour by speaking up early to let them know that they are having a problem. Also see [Hear nothing say something](https://www.youtube.com/watch?v=LZ5spXU5HbU) for further explanation.
-
+8. It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable. This is a situation where we have to do something counter intuitive to make all-remote meetings work. On the DE team, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue. Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
+9.  We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
+10. Default to using the linked meeting notes for communication, rather than Zoom's built in chat. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call.
+11. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question, e.g. 'Jay about credit-cards'.
+12. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
+13. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
+14. Speak up when you notice something is not working. If you notice someone's microphone, web cam or latency is causing issues for them it is good to speak up. On a video call it can be harder for the speaker to notice that they aren't being understood compared to a face to face conversation. As such you will be doing them a favour by speaking up early to let them know that they are having a problem. Also see [Hear nothing say something](https://www.youtube.com/watch?v=LZ5spXU5HbU) for further explanation.
 
 ### Note taking
 
@@ -434,7 +376,6 @@ On the other hand, not every part of a meeting is relevant, but it can sometimes
 If you only have one discussion point, if possible, try to reorder the meeting agenda to have your point first and then drop from the call.
 If you get asked a question when you're not paying attention, it is an okay use of time to repeat a question every now and then.
 If training is required for one's role, team members should plan to give the training full attention--especially if engagement in discussions or breakout rooms is required. If training is 'nice to learn' or 'optional' for team members, multi-tasking can be done at the team members discretion.
-
 
 We don't use the first 15 minutes of a meeting to read the materials like they [do at Amazon](https://www.forbes.com/sites/carminegallo/2019/06/18/how-the-first-15-minutes-of-amazons-leadership-meetings-sparks-great-ideas-and-better-conversations/#6be165bd54ca). You can use the start of a meeting to review the materials for the meeting if you need to, given you do not have to be paying attention, but that should not delay the start of the meeting for the people that already have questions based on the materials. [Meetings start on time on the DE team.](#scheduling-meetings)
 
@@ -492,15 +433,14 @@ Theoretically you can have multiple people in a room with their own equipment bu
 - Answer questions, thank people even if it’s just a few words. Make it a two way conversation.
 - Appreciate suggestions and feedback.
 - Do not make promises that you can't keep.
-- Guide users who ask for help or give a suggestion and share links. [Improving Open Development for Everyone](/blog/2015/12/16/improving-open-development-for-everyone/), [Types of requests](/blog/2014/12/08/explaining-gitlab-bugs/).
+- Guide users who ask for help or give a suggestion and share links.
 - When facing negative comments, respond patiently and treat every user as an individual, people with the strongest opinions can turn into the strongest supporters.
-- Adhere to the Code of Conduct (TKTK find link) in all communication. No one should accept being mistreated.
 
 ## Writing style guidelines
 
 1. On the DE team, we use American English as the standard written language.
 2. Do not use rich text, it makes it hard to copy/paste. Use Markdown to format text that is stored in a Git repository. In Google Docs use "Normal text" using the style/heading/formatting dropdown and paste without formatting.
-3. Do not use ALL CAPS because it [feels like shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting). 
+3. Do not use ALL CAPS because it [feels like shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting).
 4. We use Unix style (lf) line endings, not Windows style (crlf), please ensure `*.md text eol=lf` is set in the repository's `.gitattributes` and run `git config --global core.autocrlf input` on your client.
 5. Always write a paragraph on a single line. Use soft breaks ("word wrap") for readability. Do not put in a hard return at a certain character limit (e.g., 80 characters) and don't set your IDE to automatically insert hard breaks. Pull requests for the blog and handbook are very difficult to edit when hard breaks are inserted.
 6. Do not create links like "here" or "click here". All links should have relevant anchor text that describes what they link to, such as: "CI source installation documentation". Using [meaningful links](https://www.futurehosting.com/blog/links-should-have-meaningful-anchor-text-heres-why/) is important to both search engine crawlers (SEO) and accessibility for people with learning differences and/or physical disabilities.
@@ -510,31 +450,24 @@ Theoretically you can have multiple people in a room with their own equipment bu
    This makes the link more prominent and makes it easier to follow while viewing the document.
 7. Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and documents since other formats lead to online confusion. Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard. For months use `yyyy-mm`, so 2018-01 for January. Refer to a year with CY18 (never with 2018) and a quarter with CY18-Q1 to prevent confusion with fiscal years and quarters. If the year is obvious from the context it is OK to use Dec 4, but not 12/4, since the ordering isn't obvious when using two numbers but when naming the month it is clear that the number of the day of the month.
 8. Remember that not everyone is working in the same timezone; what may be morning for you is evening for someone else. Try to say 3 hours ago or 4 hours from now, or use a timestamp, including a timezone reference.
-9.  We use UTC as the timezone for engineering. We use Eastern Time (ET) for all other uses since we are a San Francisco-based company. Please refer to time as `9:00 AM Eastern` or `9:00 PM ET` as well as `9:00 AM UTC` (for engineering and product related items). It isn't often necessary to specify whether a timezone is currently observing Daylight Saving Time, and such references are often incorrect, so prefer "ET" to "EDT" or "EST" unless you have a specific need to differentiate between EDT and EST. Note, we communicate time using the [12-hour clock format](https://en.wikipedia.org/wiki/12-hour_clock). As such, make sure to include `AM` or `PM`.
+9. We use UTC as the timezone for engineering. We use Eastern Time (ET) for all other uses since we are a Philadelphia-based company. Please refer to time as `9:00 AM Eastern` or `9:00 PM ET` as well as `9:00 AM UTC` (for engineering and product related items). It isn't often necessary to specify whether a timezone is currently observing Daylight Saving Time, and such references are often incorrect, so prefer "ET" to "EDT" or "EST" unless you have a specific need to differentiate between EDT and EST. Note, we communicate time using the [12-hour clock format](https://en.wikipedia.org/wiki/12-hour_clock). As such, make sure to include `AM` or `PM`.
 10. When specifying measurements, please include both Metric and Imperial equivalents.
-11. Although we're a San Francisco based company we're also an internationally diverse one. Please do not refer to team members outside the US as international, instead use non-US. Please also avoid the use of offshore/overseas to refer to non-American continents.
+11. Although we're a Philadelphia-based company we're also an internationally diverse one. Please do not refer to team members outside the US as international, instead use non-US. Please also avoid the use of offshore/overseas to refer to non-American continents.
 12. If you have multiple points in a comment or email, please number them. Numbered lists are easier to reference during a discussion over bulleted lists.
 13. When you reference an ticket, pull request, comment, commit, page, doc, etc. and you have the URL available please paste that in.
 14. In making URLs, always prefer hyphens to underscores, and always use lowercase.
 15. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
-16. Refer to products by tier name only on Marketing pages: Our tier names are Ultimate, Premium, and Free. When both deployment models are being referred to (SaaS and self-managed), use the tier name only. When only one of the deployment models is being referred to, prefix the tier name with the deployment model. E.g., SaaS-Premium, Self-Managed-Ultimate.
-17. Correct capitalization of self-managed: The term `self-managed` should not be capitalized unless it's in a title or unless you are writing the full product name ("Self-Managed-Ultimate"). If it is used at the beginning of a sentence, then the first word only is capitalized: "Self-managed".
-18. Refer to environments that are installed and run by the end-user as "self-managed."
-19. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
-20. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
-21. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
-22. If an email needs a response, write the answer at the top of it.
-23. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
-24. Our homepage is https://about.gitlab.com/ (with the `about.` and with `https`).
-25. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html) whenever possible.
-26. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
-27. Always use a [serial comma](https://en.wikipedia.org/wiki/Serial_comma) (a.k.a. an "Oxford comma") before the coordinating conjunction in a list of three, four, or more items.
-28. Always use a single space between sentences rather than two.
-29. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide/) for more information when writing documentation.
-30. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `PR`, write `pull request (PR)`.
-   1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
-   2. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
-31. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/).
+16. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
+17. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
+18. If an email needs a response, write the answer at the top of it.
+19. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
+20. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html) whenever possible.
+21. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
+22. Always use a [serial comma](https://en.wikipedia.org/wiki/Serial_comma) (a.k.a. an "Oxford comma") before the coordinating conjunction in a list of three, four, or more items.
+23. Always use a single space between sentences rather than two.
+1.  Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `PR`, write `pull request (PR)`.
+2.  If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
+3.  If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
 
 ## Visuals
 
@@ -601,7 +534,6 @@ Simple Language is important both when we're speaking to other team members and 
 Be sure to use Simple Language in written communications as well.
 Our handbook, docs, and emails should be clear, concise, and effective.
 
-
 | Instead of...                       | Try...                                        |
 | ----------------------------------- | --------------------------------------------- |
 | Getting buy-in/Getting alignment    | Asking for feedback since DRIs make decisions |
@@ -615,7 +547,6 @@ Our handbook, docs, and emails should be clear, concise, and effective.
 | Helicopter view/100 foot view       | A broad view of the business                  |
 | Turtles all the way down            | Cascade through the organization              |
 | When someone has spare/extra cycles | When someone is available                     |
-
 
 ## Email
 
@@ -632,7 +563,7 @@ We have a low internal email culture, as we see greater efficiency in other form
 6. Try to always use a person's name when starting or responding to a message, especially if there are multiple persons cc'd, so that the addressee knows you are addressing them.
 7. Make sure all relevant letters and words that need capitalization are capitalized, such as the start of sentences or the word "I".
 8. Proofread your messages so that sentences are punctuated correctly, typos are fixed, and grammar is corrected. Consider using the really helpful [Grammarly](https://app.grammarly.com/) tool - this tool is great for both native English speakers and for those who use English as an additional language.
-9.  All messages and replies are signed with a professional send-off (ex. Best regards), your name, and your signature block.
+9. All messages and replies are signed with a professional send-off (ex. Best regards), your name, and your signature block.
 
 ## Slack
 
@@ -695,13 +626,11 @@ We want to continue to encourage folks to build personal relationships with one 
 We know that DMs will always exist.
 We don't want to eliminate them.
 
-
 ### Use public channels
 
 - If you use Slack and plan to message 3 or more people, we recommend a channel for customer/issue/project/problem partnership.
 - If something is important but not urgent - like complimenting or encouraging the entire team - use email or post in the channel without `@`-mentioning the team.
 - It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
-
 
 ### Be respectful of your own time
 
@@ -780,9 +709,10 @@ The following is a list of persistent Slack channels that may be relevant to you
 | #data-engineering-cicd   | Alerts related to data platform development (e.g. pull requests, merges) |
 | #data-insights           | Communications pertinent to analytics stakeholders                       |
 | #data-insights-group     | Data Insights Group communications and asynchronous standup reports.      |
+| #data-insights-sprint-process | Information related to the Data Insights group's sprint process |
 | #digital-social-club     | Memes and other informal communication                                   |
-| #futureworkplace         | Discussions related to return-to-office plans and our new office         |
 | #general                 | General organization communications                                      |
+| #headquarters            | Information about the office workspace |
 | #inq4all-content-consult | Place to give and provide feedback on Inquirer content                   |
 | #musicleague             | Informal ongoing song-selection competition                              |
 | #newsroom-style          | Place to discuss our house style with the Inquirer Style Committee       |
@@ -805,6 +735,3 @@ There are several benefits and reasons to sharing your calendar with everyone at
 - Due to competing priorities, there are small windows of time when our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
 
 If you add blocks of time spent on recurring tasks to your Google Calendar to remind yourself to do things (e.g. "Check Google Analytics"), consider marking yourself "Free" for those events so that coworkers know they may schedule a meeting during that time if they can't find another convenient time.
-
-## Confluence
-We will track onboarding activities for new hires in our private Confluence instance. Team members are encouraged to migrate any other DE-created content from Confluence to this handbook. 
