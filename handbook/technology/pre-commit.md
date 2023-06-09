@@ -42,6 +42,10 @@ repos:
     rev: 22.3.0
     hooks:
       - id: black
+  - repo: https://github.com/python-poetry/poetry
+    rev: 1.5.1
+    hooks:
+      -id: poetry-check
 ```
 
 If any of the hooks above are not relevant to a given project, then you can remove the hook for that particular project.
