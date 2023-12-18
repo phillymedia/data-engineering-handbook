@@ -50,7 +50,8 @@ We observe two-week sprint cycles. Sprints start at 2:00pm ET on Wednesday, and 
    - Move issues to a ready state ("TO DO") for assignment.
 
 - Expectations:
-  - Team changes status of  any tickets in need of refinement to: DI Refinement.
+  - Team changes status of any tickets in need of refinement to: DI Refinement.
+  - Ticket reporters make a good faith effort to populate their DI Refinement tickets with sufficient context in advance of the meeting
   - A refined backlog that is prioritized based on value and impact.
   - Clarity on goals, acceptance criteria, and review/testing requirements.
   - Resolved questions or concerns related to deliverables, dependencies, and blockers.
