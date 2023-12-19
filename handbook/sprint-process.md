@@ -46,11 +46,10 @@ We observe two-week sprint cycles. Sprints start at 2:00pm ET on Wednesday, and 
 - Agenda:
    - Review tickets in status DI Refinement.
    - Address questions or concerns regarding deliverables, dependencies, and blockers and clarify goals, acceptance criteria, and review/testing requirements.
-   - Populate the Epic with child issues, providing high-level summaries and establishing linkages.
    - Move issues to a ready state ("TO DO") for assignment.
 
 - Expectations:
-  - Team changes status of any tickets in need of refinement to: DI Refinement.
+  - Before refinement, the team updates the status of any tickets needing refinement to: DI Refinement.
   - Ticket reporters make a good faith effort to populate their DI Refinement tickets with sufficient context in advance of the meeting
   - A refined backlog that is prioritized based on value and impact.
   - Clarity on goals, acceptance criteria, and review/testing requirements.
