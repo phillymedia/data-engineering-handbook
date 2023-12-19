@@ -1,35 +1,60 @@
 ## Agile Sprint Process
 
-We observe two-week sprint cycles. Sprints start at 2:00pm ET on Tuesday, and end two weeks later on Tuesday at 12:00 ET.
+We observe two-week sprint cycles. Sprints start at 2:00pm ET on Wednesday, and end two weeks later on Wednesday at 1:00pm ET.
 
 ### Ceremonies
 
 #### Daily Data Engineering Standup
 
-- Cadence: Daily, asynchronous
+- Cadence: Monday - Thursday,  zoom meeting, synchronous, 15 minute timebox 
   
-- Agenda: Short set of questions administered through a Geekbot Slack app via DM about what you’re doing for the day, and, **more importantly, if you’re blocked on anything**. We track these standup responses over on the #data-insights-group channel, which is where we'll triage blockers.
+- Agenda: 3 questions for each Data Engineer to answer: What did you do yesterday? What are you planning to work on today? Is there anything blocking your progress? Followed by a review of any PR's that are open. 
 
 - Expectations:
-  - This standup is broadcast at 9:00am ET, but you're only expected to respond to it whenever you start your workday. Take 10-15 minutes at the beginning of your day to take inventory of your recent and upcoming work, and the blockers you've encountered. You're encouraged to set an event on your calendar if that helps.
+  - Punctuality, participation, transparency and open communication.
 
-#### Sprint Kickoff
+#### Sprint Planning
 
-- Cadence: Biweekly, on sprint Tuesdays (during the Data Leads meeting)
-  
+- Cadence: Biweekly, on the Tuesday of the week of the Sprint start, 1 hour timebox
 - Agenda: 
-  - Given that the upcoming sprint is already pre-populated, the data team leadership accounts for any work that has spilled over from the previous sprint, removing points as necessary to keep the total story points within our team's sprint capacity. 
-  - Once this process is complete, the Agile coach starts the new sprint. 
+  - Review current sprint and potential carryover into the next sprint.
+  - Agile Practitioner provides an estimated sprint capacity for the upcoming sprint.
+  - Agile Practioner & Data leads distribute a curated Sprint Planning Log for the upcoming sprint to the team for review and consideration.
+  - Discuss the value of the identified items and their alignment with project goals.
+  - Move items into the next sprint, review capacity, and make necessary adjustments.
+    
+- Expectations:
+  - By the end of the Sprint Planning session, issues for the next sprint will be identified, carryover items acknowledged, and the next sprint is in good shape and ready to be launched the next day. 
+
+#### Sprint Launch
+
+- Cadence: bi-weekly on sprint Wednesdays, 2:00pm ET, 15 minute timebox
+- Agenda: 
+  - The Agile Practitioner closes the current sprint.
+  - Any carryover issues from the previous sprint are moved into the next sprint or into the backlog.
+  - The Agile Practitioner starts the next sprint.
+  - Team members begin working on tasks and initiatives for the new sprint.
+
+ Expectations:
+  - The Agile Practitioner will close the current sprint, ensuring that all tasks and deliverables are completed or handled appropriately.
 
 
 #### Backlog Refinement
 
-- Cadence: Biweekly, on off-sprint Tuesdays
+- Cadence: Biweekly, on off-sprint Wednesdays, 1 hour timebox
   
-- Agenda: The team reviews any unpointed, unblocked tickets. After discussing the ticket, each team member provides a story point estimate for the ticket. When a consensus is reached, that story point value is added to the ticket.
+- Agenda:
+   - Review tickets in status DI Refinement.
+   - Address questions or concerns regarding deliverables, dependencies, and blockers and clarify goals, acceptance criteria, and review/testing requirements.
+   - Move issues to a ready state ("TO DO") for assignment.
 
 - Expectations:
-  - Team members review tickets and add questions and comments to the tickets in advance of refinement to facilitate better team discussions. 
+  - Before refinement, the team updates the status of any tickets needing refinement to: DI Refinement.
+  - Ticket reporters make a good faith effort to populate their DI Refinement tickets with sufficient context in advance of the meeting
+  - A refined backlog that is prioritized based on value and impact.
+  - Clarity on goals, acceptance criteria, and review/testing requirements.
+  - Resolved questions or concerns related to deliverables, dependencies, and blockers.
+
 
 
 #### Sprint Planning
@@ -44,13 +69,23 @@ We observe two-week sprint cycles. Sprints start at 2:00pm ET on Tuesday, and en
 
 #### Sprint Retro and Demos
 
-- Cadence: Biweekly, on sprint Tuesdays
+- Cadence: Monthly, on sprint start Wednesdays, 1 hour timebox 
   
 - Agenda: 
-  - Agile coaches and leads solicit feedback from the team related to the sprint. 
-  - Team members demonstrate work they've delivered during the sprint
-  - The Agile coach closes the active sprint.
+  - Team members have the opportunity to demonstrate or present the work they have delivered throughout the last two sprints.
+  - Feedback Facilitation (Retro)- Agile Practitioner(s) seeks feedback from the team regarding the last two sprints. Feedback can be related to various aspects such as the sprint process, collaboration, challenges faced, and areas for growth. 
 
 - Expectations:
-  - Team members are expected to move tickets into a terminal state (i.e. closed or closed-and-cloned into the next sprint) by the start of Retro.
-  - Managers commit to holding team members accountable to this expectation.
+  - All team members participate in the Sprint Demo & Retro sessions, as either a presenter or contributor providing feedback.
+  - Presenters are determined prior to Demo so the team has time to prepare material. Epics or Tickets that are candidates for demo may be marked with the component Demo in Jira.
+  - Presenters come prepared with pre-recorded demos  to showcase their work and highlight key achievements from the sprints.
+  - Team members openly share thoughts, suggestions, and concerns during the feedback solicitation phase, fostering a culture of continuous improvement.
+
+#### Monthly Showcase
+- Cadence: monthly, 45 minute time box  
+  
+- Agenda: 
+  - Team members have the opportunity to demonstrate or present the work they have delivered.
+    
+- Expectations:
+  - Team members regularly participate in the monthly showcase, both as presenters and contributors providing feedback.
