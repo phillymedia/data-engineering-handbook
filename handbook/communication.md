@@ -324,10 +324,12 @@ There are times when presenting during a meeting is needed. This may occur when 
 
 ## Indicating availability
 
-Indicate your availability by updating your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
+For planned away time during working hours (e.g. holidays, vacation, travel time, and other leave), indicate your availability via the all three of the following:
+1. Update your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature. Note that this feature will automatically decline any meeting invitations during the time frame you select.
+  * Additionally, add any planned vacation time to the Analytics Team Calendar
+2. [Update your Slack status](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability) to indicate that you are away.
+3. If you plan to be absent for a day or more, then [update your GitHub status to "Busy"](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status). You will not be assigned as a PR reviewer while your status is set to "Busy".
 
-1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar.
-2. Set your working hours in your Google Calendar settings.
 
 ## Video calls
 
