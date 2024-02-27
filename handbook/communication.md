@@ -141,7 +141,7 @@ In an all-remote organization effective communication is key to exchanging knowl
 
 ## Numbering is for reference, not as a signal
 
-When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/), keep items numbered so we can refer to Item 3 or 4a. The number is not a signal of the importance or rank of the subject unless explicitly stated to be such. It is just for ease of reference.
+When taking notes in an agenda or in the handbook, keep items numbered so we can refer to Item 3 or 4a. The number is not a signal of the importance or rank of the subject unless explicitly stated to be such. It is just for ease of reference.
 
 ## Cross link
 

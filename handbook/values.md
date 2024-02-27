@@ -269,7 +269,7 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 ##### Write promises down
 
-Agree in writing on measurable goals. Within the company we use [OKRs](/company/okrs/) for that.
+Agree in writing on measurable goals.
 
 ##### Growth mindset
 
@@ -298,7 +298,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
    1. Keeping the focus on the [results](#results) and the outcome
    2. Not being satisfied with the status quo and setting higher goals
       1. Ambitious mission and vision
-      2. Ambitious OKRs
+      2. Ambitious goals
       3. Having and reporting against KPIs with guiding targets
    3. Having other people adopt our way of working
       1. [Handbook](/handbook/)
@@ -307,7 +307,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
          2. Pull Requests 
   1. Proactively critiquing ourselves
      1. Highlight where we fall short
-  2. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
+  2. Not tolerating low performance
   3. Preventing [risk aversion](#low-level-of-shame)
 
 ##### Perseverance
@@ -332,7 +332,7 @@ Expression of feedback is a way for everyone to grow and learn, and is [based on
 
 When you want to reopen the conversation on something, show that your argument is informed by previous conversations and [assume the decision was made with the best intent](#assume-positive-intent).
 You have to achieve results on every decision while it stands, even when you are trying to have it changed.
-You should communicate with the [DRI](/handbook/people-group/directly-responsible-individuals/) who can change the decision instead of someone who can't.
+You should communicate with the [directly responsible individuals](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/) who can change the decision instead of someone who can't.
 
 ##### Accepting uncertainty
 
@@ -340,8 +340,7 @@ We should strive to accept that there are things that we don’t know about the 
 
 ##### Escalate to unblock
 
-
-We should be diligent to define [Directly Responsible Individuals](/handbook/people-group/directly-responsible-individuals/) (DRI). DRIs are empowered to escalate to unblock. Managers at the Inquirer's Data Insights Group seek to increase the output of the work of those on their team, a core concept in [High Output Management](/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
+We should be diligent to define [Directly Responsible Individuals](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/)(DRI). DRIs are empowered to escalate to unblock. Managers at the Inquirer's Data Insights Group seek to increase the output of the work of those on their team, a core concept in [High Output Management](https://handbook.gitlab.com/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
 
 
 ## Efficiency
@@ -350,7 +349,7 @@ Working efficiently on the right things enables us to make fast progress, which 
 
 ##### Only Healthy Constraints
 
-Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As our team grows, we are conscious of how we operate and how it enables our ability to continue to operate with agility. We try to limit ourselves to [healthy constraints](/handbook/only-healthy-constraints/). 
+Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As our team grows, we are conscious of how we operate and how it enables our ability to continue to operate with agility. We try to limit ourselves to healthy constraints. 
 
 ##### Write things down
 
@@ -407,7 +406,7 @@ Keep one-to-many written communication short, as mentioned in [this HBR study](h
 
 ##### Managers of one
 
-We want each team member to be [a manager of one](/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals.
+We want each team member to be [a manager of one](https://handbook.gitlab.com/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals.
 
 ##### Freedom and responsibility over rigidity
 
@@ -428,13 +427,13 @@ Adoption of features, user requirements, and the competitive landscape change fr
 
 ## Diversity, Inclusion & Belonging
 
-Diversity, inclusion and belonging are fundamental to the success of the Inquirer. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that the Inquirer is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
+Diversity, inclusion and belonging are fundamental to the success of the Inquirer. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that the Inquirer is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is inclusive and supports all team members equally in the process of achieving their professional goals. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
 
 ##### Bias towards asynchronous communication
 
 Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community.
 
-This is demonstrated by communicating recordings of meetings, using Jira tickets and GitHub Pull Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
+This is demonstrated by communicating recordings of meetings, using Jira tickets and GitHub Pull Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to documentation rather than pressuring others to be online outside of their working hours.
 
 ##### Embracing uncomfortable ideas and conversations
 
@@ -467,7 +466,7 @@ Caregiving, outreach programs, and community service do not conveniently wait fo
 ##### Culture fit is a bad excuse
 
 We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a **values fit**, not a culture fit.
-We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](/company/mission/#mission).
+We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our mission is that everyone can contribute.
 
 ##### Religion and politics at work
 
@@ -488,7 +487,7 @@ Celebrate and encourage quirky gifts, habits, behavior, and points of view. Open
 
 Do **not** make jokes or unfriendly remarks about characteristics of the people who make up the Inquirer and how they identify.
 Everyone has the right to feel safe when working for the Inquirer.
-We do not tolerate abuse, [harassment](/handbook/anti-harassment/), exclusion, discrimination, or retaliation by/of any community members, including our team members.
+We do not tolerate abuse, harassment, exclusion, discrimination, or retaliation by/of any community members, including our team members.
 You can always **refuse** to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
 
 ##### Unconscious bias
@@ -496,7 +495,7 @@ You can always **refuse** to deal with people who treat you badly and get out of
 We recognize that unconscious bias is something that affects everyone and that the
 effect it has on us as humans and our company is large.
 We are responsible for understanding our own implicit biases and helping others
-understand theirs. We are continuously [working on getting better at this topic](/company/culture/inclusion/unconscious-bias/).
+understand theirs. We are continuously working on getting better at this topic.
 
 
 ##### Inclusive language & pronouns
@@ -506,11 +505,6 @@ For example, prefer "Hi everybody" or "Hi people" to "Hi guys", and "they" inste
 When new possibly non-inclusive words arise, we prefer to be proactive and look for an alternative.
 If your goal is to be inclusive, it is more effective to make a small adjustment in the vocabulary when some people have a problem with it, rather than making a decision to not change it because some people don’t think it is a problem.
 And if you make a mistake (e.g. accidentally using the wrong pronoun or an outdated phrase), acknowledge it, **apologize gracefully and move on**; there is no need to dwell on it, and you can work to avoid making that mistake in the future.
-Please also visit our [Gender and Sexual-orientation Identity Definitions and FAQ](/handbook/people-group/gender-pronouns/) page if you have questions around pronouns and other topics related to gender / sexual orientation.
-
-##### Inclusive interviewing
-
-This is documented on our page about [interviewing](/handbook/hiring/interviewing/#inclusive-interviewing).
 
 ##### Inclusive meetings
 
@@ -547,7 +541,7 @@ Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch
 
 We do the smallest thing possible and get it out as quickly as possible. If you make suggestions that can be excluded from the first iteration, turn them into a separate ticket that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
 
-Iteration is a challening value to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. It's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product, but it is possible to ship a minimally viable product while continuing to adhere to the documented quality standards.
+Iteration is a challenging value to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. It's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product, but it is possible to ship a minimally viable product while continuing to adhere to the documented quality standards.
 
 The way to resolve this is to write down only what you can do with the time you have for this project right now. That might be 5 minutes or 2 hours. Think of what you can complete in that time that would improve the current situation. Iteration can be uncomfortable, even painful. If you're doing iteration correctly, it should be. Reverting work back to a previous state is positive, not negative. We're quickly getting feedback and learning from it. Making a small change prevented a bigger revert and made it easier to revert.
 
@@ -574,7 +568,7 @@ If you do a gradual rollout of your change prefer: few users over many users, in
 
 ##### Reduce cycle time
 
-Short iterations reduce [our cycle time](/stages-devops-lifecycle/value-stream-analytics/).
+Short iterations reduce our cycle time.
 
 ##### Work as part of the community
 
@@ -611,7 +605,7 @@ GitLab's Head of Remote Darren M. adds context on this sub-value:
 
 ##### Cultural lens
 
-Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](/handbook/leadership/#giving-feedback) and ensuring [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt.
+Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](https://handbook.gitlab.com/handbook/leadership/#giving-feedback) and ensuring [psychological safety](https://handbook.gitlab.com/handbook/leadership/#giving-feedback) are necessary for every iterative attempt.
 
 ##### Focus on improvement
 
@@ -631,7 +625,7 @@ Resist the urge to bundle a series of smaller iterations so team members don't s
 
 ##### Make two-way door decisions
 
-Most decisions are easy to reverse. In these cases, the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion.
+Most decisions are easy to reverse. In these cases, the [directly responsible individual](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion.
 
 ##### Changing proposals isn't iteration
 
@@ -648,7 +642,7 @@ In order to [embrace iteration](https://www.youtube.com/embed/nXfKtnVUhvQ), we s
 When you are submitting a pull request for a code change, or a process change in
 the handbook, keep it as small as possible. If you are adding a new page to the
 handbook, create the new page with a small amount of initial content, get it merged
-quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent pull requests.
+quickly, and then add additional sections iteratively with subsequent pull requests.
 Similarly, when adding features to the Inquirer's Data Platform, consider ways to reduce the scope of the feature before creating the pull request to ensure your pull request is as small as possible.
 
 ##### 12 things that are not iteration
@@ -684,7 +678,7 @@ Moreover, the value of transparency is consistent with the Inquirer's mission:
 
 >Our mission is to be the indispensable source of local news and information serving the diverse communities of the Philadelphia region, with a sustainable, growing business built upon the trust and support of our customers.
 
-We build trust by of our customers by [working in public](https://nesslabs.com/work-in-public), and we serve our communties by broadcasting our information and knowledge out into the world.
+We build trust by of our customers by [working in public](https://nesslabs.com/work-in-public), and we serve our communities by broadcasting our information and knowledge out into the world.
 
 ##### Public by default
 
@@ -709,7 +703,7 @@ We must practice transparency even when hiding the facts would be easier. Transp
 
 ##### Findability
 
-Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication.md#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to PRs in Slack.
+Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication.md#multimodal-communication), or that you keep your stakeholders informed of changes by posting links to PRs in Slack.
 
 ##### Say why, not just what
 
@@ -727,14 +721,14 @@ Saying why and not just what enables discussion around topics that may impact mo
 Articulating why also helps people understand how something changed when you [articulate that you changed your mind](#articulate-when-you-change-your-mind).
 
 Saying why does not mean justifying a decision against all other suggestions.
-The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for their decision.
+The [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for their decision.
 The DRI is not responsible for convincing other people, but they should be able to articulate their reasoning for the change.
 
 When a Inquirer DE Team Member comes across an ask or material (MR, handbook, etc.) that does not provide a "why" with sufficient context, the Team Member is responsible for getting the why and, if needed, working with the DRI to ensure that it is adequately documented and communicated to give context to other team members.  In the absence of a why, team members may speculate the why. This is something that can lead to disruption and inefficiency.
 
 ##### Reproducibility
 
-Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
+Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](https://handbook.gitlab.com/handbook/leadership/making-decisions/).
 
 
 ## Five dysfunctions
@@ -760,7 +754,7 @@ Values are a framework for distributed decision making; they allow you to determ
 
 ## How to scale the team while preserving DE values?
 
-*For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) ), Inquirer DE team members may have a lot of opinions and interest,
+*For certain business decisions or projects (such as compensation and end-point management), Inquirer DE team members may have a lot of opinions and interest,
 and they want to provide their feedback and comments.
 On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs.
 What should you do in this scenario?*
@@ -797,9 +791,9 @@ This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-
 
 Companies are encouraged to copy and implement the DE team's values. They are Apache 2.0 and can be copied verbatim.
 
-We make our values public for the same reasons we make our OKRs (Objectives and Key Results) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
+We make our values public because there is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
 
-Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with the DE team's values apply for an open vacancy, this allows our hiring teams to more efficiently move candidates through the [interview process](/handbook/hiring/interviewing/).
+Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with the DE team's values apply for an open vacancy, this allows our hiring teams to more efficiently move candidates through the interview process.
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
@@ -835,32 +829,24 @@ Our values are updated frequently and as needed. Everyone is welcome to make a s
 
 Whatever behavior you reward will become your values. We reinforce our values by:
 
-1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/) and communicate to the whole company on announcement.
-1. What we select for during [hiring](/handbook/hiring/).
-1. What we emphasize during [on-boarding](/handbook/people-group/general-onboarding/).
-1. Criteria we use for our [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review).
-1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
-1. The example that Data leadership sets for the team since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
+1. What we select for during hiring.
+2. What we emphasize during on-boarding.
+3. What we refer to when [making decisions](https://handbook.gitlab.com/handbook/leadership/making-decisions/).
+4. The example that Data leadership sets for the team since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 
-1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
-1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
-1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
-1. Behavior we [compliment](/handbook/communication.md#say-thanks).
-1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
-1. What we include in our [offer letters](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements)
-1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
-1. What we do when we [let people go](/handbook/people-group/offboarding/).
-1. Giving value awards during [Contribute](/events/gitlab-contribute/).
-2. Linking the takeaways of courses and trainings to our values.
-3. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication.md#link-sharing), agendas, etc.)
+5. What we expect from all team members, as ambassadors for our values.
+6. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
+7. Behavior we give each other feedback on.
+8.  Behavior we [compliment](/handbook/communication.md#say-thanks).
+9.  Linking the takeaways of courses and trainings to our values.
+10. The default settings of the software we use (for example: Speedy meetings, [document sharing](/handbook/communication.md#link-sharing), agendas, etc.)
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses.
 
 In negative feedback, we should be specific about what the problem is. For example, saying someone is "[not living the values](https://hbr.org/2017/05/how-corporate-values-get-hijacked-and-misused)" isn't helpful.
 
-> Your values are what you hire for, what you praise people for, and what you promote them for. By definition, what you do in those instances *are* your values. It's not what you say they are. Values should be explicitly part of our [hiring](/handbook/hiring/) process, our job profiles, and our [review process](/handbook/people-group/360-feedback/).
->
-> When we give [bonuses](/handbook/incentives/#discretionary-bonuses) and [promotions](/handbook/people-group/promotions-transfers/), they are always linked to values. That's the crucial thing. If you reinforce them there, that's the most powerful thing you can do. — *Sid Sijbrandij, GitLab co-founder and CEO*
+> Your values are what you hire for, what you praise people for, and what you promote them for. By definition, what you do in those instances *are* your values. It's not what you say they are. Values should be explicitly part of our hiring process, our job profiles, and our review process.
+
 
 ## What to do if values aren't being lived out
 
