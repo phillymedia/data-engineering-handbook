@@ -13,8 +13,6 @@ All new team members and collaborators should start by understanding our [Operat
 
 The Data Engineering team is responsible for The Inquirer Data Platform, which is made up of several distinct subcomponents and [technologies](handbook/technology). We make significant use of [dbt](handbook/technology/dbt.md) as a common tool.
 
-We track our work as [Objectives and Key Results](handbook/okrs/) both for the team and as individuals.
-
 We use a version of the Agile Project Management approach, colloquially referred to as our [Sprint Process](handbook/sprint-process.md)
 
 ## About The Handbook

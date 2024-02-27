@@ -269,7 +269,7 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 ##### Write promises down
 
-Agree in writing on measurable goals. Within the company we use [OKRs](/company/okrs/) for that.
+Agree in writing on measurable goals.
 
 ##### Growth mindset
 
@@ -298,7 +298,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
    1. Keeping the focus on the [results](#results) and the outcome
    2. Not being satisfied with the status quo and setting higher goals
       1. Ambitious mission and vision
-      2. Ambitious OKRs
+      2. Ambitious goals
       3. Having and reporting against KPIs with guiding targets
    3. Having other people adopt our way of working
       1. [Handbook](/handbook/)
@@ -797,7 +797,7 @@ This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-
 
 Companies are encouraged to copy and implement the DE team's values. They are Apache 2.0 and can be copied verbatim.
 
-We make our values public for the same reasons we make our OKRs (Objectives and Key Results) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
+We make our values public because there is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
 
 Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with the DE team's values apply for an open vacancy, this allows our hiring teams to more efficiently move candidates through the [interview process](/handbook/hiring/interviewing/).
 
