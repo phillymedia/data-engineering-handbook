@@ -28,7 +28,7 @@ We observe two-week sprint cycles. Sprints start at 11:00am ET on Wednesday, and
 
 #### Backlog Refinement
 
-- Cadence: Biweekly, on off-sprint Wednesdays, 1 hour timebox
+- Cadence: Biweekly, on non-sprint week start Tuesdays, 1 hour timebox
   
 - Agenda:
    - Review tickets in status DI Refinement.
@@ -54,7 +54,7 @@ We observe two-week sprint cycles. Sprints start at 11:00am ET on Wednesday, and
 
 #### Sprint Retro and Demos
 
-- Cadence: Monthly, on sprint start Tuesdays, 1 hour timebox 
+- Cadence: Monthly, on every other non-sprint week start Wednesday, 1 hour timebox 
   
 - Agenda: 
   - Team members have the opportunity to demonstrate or present the work they have delivered throughout the last two sprints.
@@ -67,7 +67,7 @@ We observe two-week sprint cycles. Sprints start at 11:00am ET on Wednesday, and
   - Team members openly share thoughts, suggestions, and concerns during the feedback solicitation phase, fostering a culture of continuous improvement.
 
 #### Monthly Showcase
-- Cadence: monthly, 45 minute time box  
+- Cadence: monthly, 4th Wednesday of the month, 45 minute time box  
   
 - Agenda: 
   - Team members have the opportunity to demonstrate or present the work they have delivered.
