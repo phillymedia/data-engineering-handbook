@@ -24,9 +24,10 @@ We observe two-week sprint cycles. Sprints start at 11:00 AM ET on Wednesday, an
 - Cadence: Biweekly, on Wednesdays, 1-hour timebox
 - Agenda: 
   - Agile Practitioner closes the current sprint addressing any carryover issues
-  - Review  Sprint Planning Log  and estimate sprint capacity
+  - Review Sprint Planning Log and estimate sprint capacity
   - Adjust the tickets based on priority and alignment with project goals and capacity
-  - Agree on tickets and start the next sprint
+  - Agree on tickets and pre-assign tickets to team members when there is sufficient reason to do so (e.g. only a particular team member can work the ticket; a team member can work a blocked ticket once they complete the in-progress blocker ticket). Otherwise, tickets with a status of "To Do" should generally be unassigned at the start of the sprint
+  - Agile Practitioner starts the next sprint
     
 - Expectations:
   - All tasks and deliverables from the ending sprint are addressed appropriately
