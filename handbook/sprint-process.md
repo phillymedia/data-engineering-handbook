@@ -36,7 +36,7 @@ We observe two-week sprint cycles. Sprints start at 11:00 AM ET on Wednesday, an
 
 #### Refinement
 
-- Cadence: Biweekly, on Tuesdays, 1-hour timebox
+- Cadence: Weekly, on Tuesdays, 30 minute timebox
   
 - Agenda:
   - Review tickets in "DI Refinement" status
@@ -51,27 +51,32 @@ We observe two-week sprint cycles. Sprints start at 11:00 AM ET on Wednesday, an
 
 
 #### Prioritization 
- Cadence: Biweekly, on Mondays, 30-minute timebox
+ Cadence: Weekly, on Mondays, 30 minute timebox
   
 - Agenda: 
-  - Epics are prioritized with input from the team on importance and urgency
+  - Epics, Stories & Tasks are prioritized with input from the data leads and PM on importance and urgency
   - New epics are discussed, and prioritized within in the list of existing epics
 
 - Expectations:
-  - A prioritized epic list
+  - A prioritized backlog 
   
 
-#### Sprint Demo & Retro
+#### Demo 
 
 - Cadence: Monthly, on Thursdays, 1-hour timebox
   
 - Agenda: 
-  - Demo: Team members present work from past sprints
-  - Retro: Agile Practitioner seeks feedback on past sprints and processes
+  - Team members present work from past sprints
 
 - Expectations:
-  - Presenters are determined beforehand in order to prepare material
-  - Team members actively share thoughts, suggestions, and concerns
+  - Each team member will come prepared to share recent work, either from the last two sprints or something of particular relevance or interest to the team
+ 
+#### Retro
+  - Cadence: Bi-Monthly and / or as needed 
+  - 
+  - Agenda:  Agile Practitioner seeks feedback on past sprints and processes
+  - Expectations:
+    - Team members actively share thoughts, suggestions, and concerns
 
 
 #### Monthly Showcase
