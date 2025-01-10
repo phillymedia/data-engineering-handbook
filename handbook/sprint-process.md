@@ -19,6 +19,28 @@ We observe two-week sprint cycles. Sprints start at 11:00 AM ET on Wednesday, an
 - Expectations:
   - Punctual participation with transparent and open communication
 
+##### Biweekly/Monthly Scrum Agenda Items
+
+To ensure team alignment and transparency, certain scrum meetings will have additional agenda items, as follows:
+
+- **Monday scrum before sprint launch (biweekly)**
+  - Team members evaluate tickets that we anticipate spilling over into the next sprint. In-progress tickets are cloned and re-pointed to reflect estimated spillover work. Tickets with status of To Do or Blocked are rescheduled, as appropriate.
+  - Team members may edit the point value of their assigned tickets to better reflect their actual level-of-effort.
+
+- **Tuesday standup before sprint launch (biweekly)**
+  - Team review of the upcoming Sprint Planning Log, with a focus on:
+    - General epics and work themes
+    - Risks
+    - OOO and handoff information
+    - Special ceremonies (e.g. Dev Day, D&I Demo)
+
+- **Thursday standup, 1 week before D&I Demo day (monthly)**
+  - Team members commit to a presentation topic for the following week's D&I Demo session. They may draw from any of their work since the previous D&I Demo.
+
+- **Monday standup, week of Dev Day (monthly)**
+  - Team members commit to a Dev Day focus area.
+  - Additionally, team members will have an opportunity to discuss their upcoming Dev Day plans during 1:1s with their manager (the week before Dev Day week).
+
 #### Sprint Close, Planning & Launch
 
 - Cadence: Biweekly, on Wednesdays, 1-hour timebox
