@@ -24,12 +24,14 @@ Several of our repositories use services that require enhanced GitHub permission
     * `DBT_GIT_TOKEN` https://github.com/phillymedia/inquirer-dbt/pull/1172
   * [Dependabot](https://github.com/phillymedia/inquirer-dbt/settings/secrets/dependabot)
     * `ADMIN_PAT` (fine-grained token)
-  * [inq-warehouse-dags](https://github.com/phillymedia/inq-warehouse-dags)
-    * [Actions](https://github.com/phillymedia/inq-warehouse-dags/settings/secrets/actions)
-      * `DEPENDABOT_GITHUB_TOKEN` (classic token)
-  * [inq-data-resources](https://github.com/phillymedia/inq-data-resources)
-    * [Actions](https://github.com/phillymedia/inq-data-resources/settings/secrets/actions)
-      * `DEPENDABOT_GITHUB_TOKEN` (classic token)
+* [inq-warehouse-dags](https://github.com/phillymedia/inq-warehouse-dags)
+  * [Actions](https://github.com/phillymedia/inq-warehouse-dags/settings/secrets/actions)
+    * `DEPENDABOT_GITHUB_TOKEN` (classic token)
+* [inq-data-resources](https://github.com/phillymedia/inq-data-resources)
+  * [Actions](https://github.com/phillymedia/inq-data-resources/settings/secrets/actions)
+    * `DEPENDABOT_GITHUB_TOKEN` (classic token)
+* [inq-warehouse-terraform](https://github.com/phillymedia/inq-warehouse-terraform)
+  * [GitHub Terraform provider token](https://github.com/phillymedia/inq-warehouse-terraform/pull/347)
 
 ### Token permissions
 In order to function properly, the tokens stored in the secrets listed above need the following permissions:
@@ -40,3 +42,10 @@ In order to function properly, the tokens stored in the secrets listed above nee
   * **Read** and **Write** access to actions, code, commit statuses, pull requests, and workflows
 * `DEPENDABOT_GITHUB_TOKEN`
   * repo (Full control of private repositories)
+* GitHub Terraform provider token
+  * **Read** access to codespaces and metadata
+  * **Read** and **Write** access to actions, administration, codespaces secrets, dependabot secrets, pages, and secrets
+
+### Deploying tokens
+
+The deployment of `ADMIN_PAT`, GitHub Terraform provider, and `DEPENDABOT_GITHUB_TOKEN` tokens to the appropriate GitHub secrets is managed in Terraform via the Google Secret Manager secrets `github-personal_access_token-phillymedia_inquirer_dbt_actions`, `github-personal_access_token-phillymedia_data_engineering_admin` and `github-token-phillymedia_data_engineering_dependabot_automerge`, respectively. One new tokens have been minted, their values should be copied into Google Secret Manager as a new secret version (and the previous versions should be disabled). Finally, once these substitutions are made in Google Secret Manager, run `terraform apply` against `origin/main` in `inq-warehouse-terraform`--the plan should replace the old secret verions with the new ones.
