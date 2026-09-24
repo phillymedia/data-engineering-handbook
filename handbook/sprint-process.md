@@ -1,6 +1,6 @@
 ## Agile Sprint Process
 
-We observe two-week sprint cycles. Sprints start at 11:00 AM ET on Wednesday, and end two weeks later on Wednesday at 10:00 AM ET.
+We observe two-week sprint cycles. Sprints start at 9:00 AM ET on Wednesday, and end two weeks later on Wednesday at 9:00 AM ET.
 
 ### Ceremonies
 
@@ -47,7 +47,7 @@ To ensure team alignment and transparency, certain scrum meetings will have addi
 
 #### Sprint Close, Planning & Launch
 
-- Cadence: Biweekly, on Wednesdays, 1-hour timebox
+- Cadence: Biweekly, on Wednesdays, 30 min timebox
 - Agenda: 
   - Agile Practitioner closes the current sprint addressing any carryover issues
   - Review Sprint Planning Log and estimate sprint capacity
@@ -62,7 +62,7 @@ To ensure team alignment and transparency, certain scrum meetings will have addi
 
 #### Refinement
 
-- Cadence: Weekly, on Tuesdays, 30 minute timebox
+- Cadence: Weekly, on Tuesdays, 45 minute timebox
   
 - Agenda:
   - Review tickets in "DI Refinement" status
@@ -80,7 +80,7 @@ To ensure team alignment and transparency, certain scrum meetings will have addi
  Cadence: Weekly, on Mondays, 30 minute timebox
   
 - Agenda: 
-  - Epics, Stories & Tasks are prioritized with input from the data leads and PM on importance and urgency
+  - Epics and child tickets are prioritized with input from the data leads and PM on importance and urgency
   - New epics are discussed, and prioritized within in the list of existing epics
 
 - Expectations:
@@ -99,17 +99,7 @@ To ensure team alignment and transparency, certain scrum meetings will have addi
  
 #### Retro
   - Cadence: Bi-Monthly and / or as needed 
-  - 
   - Agenda:  Agile Practitioner seeks feedback on past sprints and processes
   - Expectations:
     - Team members actively share thoughts, suggestions, and concerns
 
-
-#### Monthly Showcase
-- Cadence: Monthly, on Wednesdays, 45-minute timebox
-  
-- Agenda: 
-  - Team members have the opportunity to demonstrate or present the work they have delivered
-    
-- Expectations:
-  - Regular participation in showcasing work and providing feedback
